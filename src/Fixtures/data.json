@@ -1,0 +1,1517 @@
+{
+  "commercial": {
+    "flourmill_With_Mid_Range_Stone": {
+      "models": [
+        "flourmill_8_Regular",
+        "flourmill_8_Jain",
+        "flourmill_10_Regular",
+        "flourmill_10_Jain",
+        "flourmill_12_Regular",
+        "flourmill_12_TP",
+        "flourmill_12_Bracket",
+        "flourmill_14_Regular",
+        "flourmill_14_TP",
+        "flourmill_14_Bracket",
+        "flourmill_15 TP",
+        "flourmill_15_Bracket"
+      ],
+      "data": {
+        "flourmill_8_Regular": {
+          "name": { "name": "Name", "value": "8\" Regular" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "44 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "0.75 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-36" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "25 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6205 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "12 to 20 kgs" }
+        },
+        "flourmill_8_Jain": { "name": { "name": "Name", "value": "8\" Jain" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "44 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "0.75 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-36" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "25 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6205 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "12 to 20 kgs" }
+        },
+        "flourmill_10_Regular": {
+          "name": { "name": "Name", "value": "10\" Regular" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "50 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.5 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "1.25 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-38" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "25 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6205 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "18 to 25 kgs" }
+        },
+        "flourmill_10_Jain": {
+          "name": { "name": "Name", "value": "10\" Jain" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "50 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.5 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "1.25 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-38" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "25 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6205 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "18 to 25 kgs" }
+        },
+        "flourmill_12_Regular": {
+          "name": { "name": "Name", "value": "12\" Regular" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "2 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "1.60 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-48" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "30 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6206 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "30 to 45 kgs" }
+        },
+        "flourmill_12_TP": {
+          "name": { "name": "Name", "value": "12\" TP" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "2 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "1.60 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-48" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "30 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6206 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "30 to 45 kgs" }
+        },
+        "flourmill_12_Bracket": {
+          "name": { "name": "Name", "value": "12\" Bracket" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "2 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "1.60 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-48" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "30 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6206 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "30 to 45 kgs" }
+        },
+        "flourmill_14_Regular": {
+          "name": { "name": "Name", "value": "14\" Regular" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "3 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "2.5 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-52/50/52" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "35 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6207 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "35 to 50 kgs" }
+        },
+        "flourmill_14_TP": {
+          "name": { "name": "Name", "value": "14\" TP" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "3 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "2.5 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-52/50/52" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "35 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6207 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "35 to 50 kgs" }
+        },
+        "flourmill_14_Bracket": {
+          "name": { "name": "Name", "value": "14\" Bracket" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "3 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "2.5 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-52/50/52" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "35 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6207 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "35 to 50 kgs" }
+        },
+        "flourmill_15 TP": {
+          "name": { "name": "Name", "value": "15\" Regular" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "4 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "3.25 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-53" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "35 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6207 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "45 to 70 kgs" }
+        },
+        "flourmill_15_Bracket": {
+          "name": { "name": "Name", "value": "15\" Regular" },
+          "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "4 HP 1440 RPM I-Phase" },
+          "powerConsumption": { "name": "Power Consumption Per Hour", "value": "3.25 Unit" },
+          "vBeltSize": { "name": "V-Belt Size", "value": "B-53" },
+          "shaftSize": { "name": "En-8 Shaft Diameter", "value": "35 mm" },
+          "bearingSize": { "name": "Ball Bearing", "value": "6207 Z" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "45 to 70 kgs" }
+        }
+      }
+    },
+    "flourmill_With_Large_Range_Stone": {
+      "models": [
+        "flourmill_16x3_Bracket_Trolley_40cm_5HP_1440RPM_I_Phase",
+        "flourmill_16x3_Bracket_Trolley_40cm_6HP_1440RPM_I_Phase",
+        "flourmill_16x3_Bracket_Trolley_40cm_5HP_A_Class_III_Phase",
+        "flourmill_18x4_5_Bracket_Trolley_45cm_7_5HP_1440RPM_I_Phase",
+        "flourmill_18x4_5_Bracket_Trolley_45cm_10HP_1440RPM_III_Phase"
+      ],
+      "data": {
+        "flourmill_16x3_Bracket_Trolley_40cm_5HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" Bracket Trolley with 5 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 1440 RPM I-Phase" },
+          "pulleySize": { "name": "Pulley", "value": "12\" x 2B x 40 mm" },
+          "pulleyKeySize": { "name": "Pulley - Key", "value": "12 x 12 x 110 mm" },
+          "bearingSizeCover": { "name": "Bearing Size - Cover", "value": "6208 Z - 2 pcs" },
+          "bearingSizeBracket": { "name": "Bearing Size - Bracket", "value": "6213 Z" },
+          "shaftSize": { "name": "Shaft", "value": "40 mm x 24\" En-31" },
+          "shaftKeySlotSize": { "name": "Shaft - Key Slot", "value": "12 mm x 6.5 mm x 7.5\"" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "60 to 90 kgs" }
+        },
+        "flourmill_16x3_Bracket_Trolley_40cm_6HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" Bracket Trolley with 6 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
+          "pulleySize": { "name": "Pulley", "value": "12\" x 2B x 40 mm" },
+          "pulleyKeySize": { "name": "Pulley - Key", "value": "12 x 12 x 110 mm" },
+          "bearingSizeCover": { "name": "Bearing Size - Cover", "value": "6208 Z - 2 pcs" },
+          "bearingSizeBracket": { "name": "Bearing Size - Bracket", "value": "6213 Z" },
+          "shaftSize": { "name": "Shaft", "value": "40 mm x 24\" En-31" },
+          "shaftKeySlotSize": { "name": "Shaft - Key Slot", "value": "12 mm x 6.5 mm x 7.5\"" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
+        },
+        "flourmill_16x3_Bracket_Trolley_40cm_5HP_A_Class_III_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" Bracket Trolley with 5 HP A-Class III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP A-Class 1440 RPM III-Phase" },
+          "pulleySize": { "name": "Pulley", "value": "12\" x 2B x 40 mm" },
+          "pulleyKeySize": { "name": "Pulley - Key", "value": "12 x 12 x 110 mm" },
+          "bearingSizeCover": { "name": "Bearing Size - Cover", "value": "6208 Z - 2 pcs" },
+          "bearingSizeBracket": { "name": "Bearing Size - Bracket", "value": "6213 Z" },
+          "shaftSize": { "name": "Shaft", "value": "40 mm x 24\" En-31" },
+          "shaftKeySlotSize": { "name": "Shaft - Key Slot", "value": "12 mm x 6.5 mm x 7.5\"" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "100 to 120 kgs" }
+        },
+        "flourmill_18x4_5_Bracket_Trolley_45cm_7_5HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "18\" x 4.5\" Bracket Trolley with 7.5 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM I-Phase" },
+          "pulleySize": { "name": "Pulley", "value": "12\" x 2B x 40 mm" },
+          "pulleyKeySize": { "name": "Pulley - Key", "value": "12 x 12 x 110 mm" },
+          "bearingSizeCover": { "name": "Bearing Size - Cover", "value": "6208 Z - 2 pcs" },
+          "bearingSizeBracket": { "name": "Bearing Size - Bracket", "value": "6213 Z" },
+          "shaftSize": { "name": "Shaft", "value": "40 mm x 30\" En-31" },
+          "shaftKeySlotSize": { "name": "Shaft - Key Slot", "value": "12 mm x 6.5 mm x 7.5\"" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "90 to 130 kgs" }
+        },
+        "flourmill_18x4_5_Bracket_Trolley_45cm_10HP_1440RPM_III_Phase": {
+          "name": { "name": "Name", "value": "18\" x 4.5\" Bracket Trolley with 10 HP 1440 RPM III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 1440 RPM III-Phase" },
+          "pulleySize": { "name": "Pulley", "value": "12\" x 2B x 40 mm" },
+          "pulleyKeySize": { "name": "Pulley - Key", "value": "12 x 12 x 110 mm" },
+          "bearingSizeCover": { "name": "Bearing Size - Cover", "value": "6208 Z - 2 pcs" },
+          "bearingSizeBracket": { "name": "Bearing Size - Bracket", "value": "6213 Z" },
+          "shaftSize": { "name": "Shaft", "value": "40 mm x 30\" En-31" },
+          "shaftKeySlotSize": { "name": "Shaft - Key Slot", "value": "12 mm x 6.5 mm x 7.5\"" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "130 to 160 kgs" }
+        }
+      }
+    },
+    "flourmill_DSP_DSSP": {
+      "models": [
+        "flourmill_16x3_DSP_40cm_5HP_1440RPM_I_Phase",
+        "flourmill_16x3_DSP_40cm_6HP_1440RPM_I_Phase",
+        "flourmill_16x3_DSP_40cm_5HP_A_Class_III_Phase",
+        "flourmill_16x3_DSSP_40cm_5HP_1440RPM_I_Phase",
+        "flourmill_16x3_DSSP_40cm_6HP_1440RPM_I_Phase",
+        "flourmill_16x3_DSSP_40cm_5HP_A_Class_III_Phase",
+        "flourmill_16x4_5_DSP_40cm_6HP_1440RPM_I_Phase",
+        "flourmill_16x4_5_DSP_40cm_7_5HP_1440RPM_III_Phase",
+        "flourmill_16x4_5_DSSP_40cm_6HP_1440RPM_I_Phase",
+        "flourmill_16x4_5_DSSP_40cm_7_5HP_1440RPM_III_Phase",
+        "flourmill_18x4_5_DSP_45cm_7_5HP_1440RPM_I_Phase",
+        "flourmill_18x4_5_DSP_45cm_10HP_1440RPM_III_Phase",
+        "flourmill_18x4_5_DSSP_45cm_7_5HP_1440RPM_I_Phase",
+        "flourmill_18x4_5_DSSP_45cm_10HP_1440RPM_III_Phase",
+        "flourmill_16x3_DSP_Trolley_40cm_5HP_1440RPM_I_Phase",
+        "flourmill_16x3_DSP_Trolley_40cm_6HP_1440RPM_I_Phase",
+        "flourmill_16x3_DSP_Trolley_40cm_5HP_A_Class_III_Phase",
+        "flourmill_16x3_DSSP_Trolley_40cm_5HP_1440RPM_I_Phase",
+        "flourmill_16x3_DSSP_Trolley_40cm_6HP_1440RPM_I_Phase",
+        "flourmill_16x3_DSSP_Trolley_40cm_5HP_A_Class_III_Phase",
+        "flourmill_16x4_5_DSP_Trolley_40cm_6HP_1440RPM_I_Phase",
+        "flourmill_16x4_5_DSP_Trolley_40cm_7_5HP_1440RPM_III_Phase",
+        "flourmill_16x4_5_DSSP_Trolley_40cm_6HP_1440RPM_I_Phase",
+        "flourmill_16x4_5_DSSP_Trolley_40cm_7_5HP_1440RPM_III_Phase",
+        "flourmill_18x4_5_DSP_Trolley_45cm_7_5HP_1440RPM_I_Phase",
+        "flourmill_18x4_5_DSP_Trolley_45cm_10HP_1440RPM_III_Phase",
+        "flourmill_18x4_5_DSSP_Trolley_45cm_7_5HP_1440RPM_I_Phase",
+        "flourmill_18x4_5_DSSP_Trolley_45cm_10HP_1440RPM_III_Phase"
+      ],
+      "data": {
+        "flourmill_16x3_DSP_40cm_5HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSP with 5 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "60 to 90 kgs" }
+        },
+        "flourmill_16x3_DSP_40cm_6HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSP with 6 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
+        },
+        "flourmill_16x3_DSP_40cm_5HP_A_Class_III_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSP with 5 HP A-Class III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP A-Class 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "100 to 120 kgs" }
+        },
+        "flourmill_16x3_DSSP_40cm_5HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSSP with 5 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "60 to 90 kgs" }
+        },
+        "flourmill_16x3_DSSP_40cm_6HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSSP with 6 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
+        },
+        "flourmill_16x3_DSSP_40cm_5HP_A_Class_III_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSSP with 5 HP A-Class III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP A-Class 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "100 to 120 kgs" }
+        },
+        "flourmill_16x4_5_DSP_40cm_6HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 4.5\" DSP with 6 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
+        },
+        "flourmill_16x4_5_DSP_40cm_7_5HP_1440RPM_III_Phase": {
+          "name": { "name": "Name", "value": "16\" x 4.5\" DSP with 7.5 HP 1440 RPM III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "110 to 130 kgs" }
+        },
+        "flourmill_16x4_5_DSSP_40cm_6HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 4.5\" DSSP with 6 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
+        },
+        "flourmill_16x4_5_DSSP_40cm_7_5HP_1440RPM_III_Phase": {
+          "name": { "name": "Name", "value": "16\" x 4.5\" DSSP with 7.5 HP 1440 RPM III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "110 to 130 kgs" }
+        },
+        "flourmill_18x4_5_DSP_45cm_7_5HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "18\" x 4.5\" DSP with 7.5 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "12\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "6\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "90 to 130 kgs" }
+        },
+        "flourmill_18x4_5_DSP_45cm_10HP_1440RPM_III_Phase": {
+          "name": { "name": "Name", "value": "18\" x 4.5\" DSP with 10 HP 1440 RPM III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "12\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "6\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "130 to 160 kgs" }
+        },
+        "flourmill_18x4_5_DSSP_45cm_7_5HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "18\" x 4.5\" DSSP with 7.5 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "12\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "6\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "90 to 130 kgs" }
+        },
+        "flourmill_18x4_5_DSSP_45cm_10HP_1440RPM_III_Phase": {
+          "name": { "name": "Name", "value": "18\" x 4.5\" DSSP with 10 HP 1440 RPM III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "12\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "6\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "130 to 160 kgs" }
+        },
+        "flourmill_16x3_DSP_Trolley_40cm_5HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSP Trolley with 5 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "60 to 90 kgs" }
+        },
+        "flourmill_16x3_DSP_Trolley_40cm_6HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSP Trolley with 6 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
+        },
+        "flourmill_16x3_DSP_Trolley_40cm_5HP_A_Class_III_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSP Trolley with 5 HP A-Class III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP A-Class 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "100 to 120 kgs" }
+        },
+        "flourmill_16x3_DSSP_Trolley_40cm_5HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSSP Trolley with 5 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "60 to 90 kgs" }
+        },
+        "flourmill_16x3_DSSP_Trolley_40cm_6HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSSP Trolley with 6 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
+        },
+        "flourmill_16x3_DSSP_Trolley_40cm_5HP_A_Class_III_Phase": {
+          "name": { "name": "Name", "value": "16\" x 3\" DSSP Trolley with 5 HP A-Class III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP A-Class 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "100 to 120 kgs" }
+        },
+        "flourmill_16x4_5_DSP_Trolley_40cm_6HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 4.5\" DSP Trolley with 6 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
+        },
+        "flourmill_16x4_5_DSP_Trolley_40cm_7_5HP_1440RPM_III_Phase": {
+          "name": { "name": "Name", "value": "16\" x 4.5\" DSP Trolley with 7.5 HP 1440 RPM III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "110 to 130 kgs" }
+        },
+        "flourmill_16x4_5_DSSP_Trolley_40cm_6HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "16\" x 4.5\" DSSP Trolley with 6 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
+        },
+        "flourmill_16x4_5_DSSP_Trolley_40cm_7_5HP_1440RPM_III_Phase": {
+          "name": { "name": "Name", "value": "16\" x 4.5\" DSP Trolley with 7.5 HP 1440 RPM III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "5\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "110 to 130 kgs" }
+        },
+        "flourmill_18x4_5_DSP_Trolley_45cm_7_5HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "18\" x 4.5\" DSP Trolley with 7.5 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "12\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "6\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "90 to 130 kgs" }
+        },
+        "flourmill_18x4_5_DSP_Trolley_45cm_10HP_1440RPM_III_Phase": {
+          "name": { "name": "Name", "value": "18\" x 4.5\" DSP Trolley with 10 HP 1440 RPM III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "12\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "6\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "6208 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "130 to 160 kgs" }
+        },
+        "flourmill_18x4_5_DSSP_Trolley_45cm_7_5HP_1440RPM_I_Phase": {
+          "name": { "name": "Name", "value": "18\" x 4.5\" DSSP Trolley with 7.5 HP 1440 RPM I-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM I-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "12\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "6\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "90 to 130 kgs" }
+        },
+        "flourmill_18x4_5_DSSP_Trolley_45cm_10HP_1440RPM_III_Phase": {
+          "name": { "name": "Name", "value": "18\" x 4.5\" DSSP Trolley with 10 HP 1440 RPM III-Phase Elec. Motor" },
+          "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 1440 RPM III-Phase" },
+          "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "12\" x 2C x 40 mm" },
+          "motorPulleySize": { "name": "Motor Pulley", "value": "6\" x 2C x 38 mm" },
+          "bearingSize": { "name": "Bearing Size", "value": "2308 - 2 pcs + 6208 - 1 pc" },
+          "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
+          "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "130 to 160 kgs" }
+        }
+      }
+    },
+    "pulverizer": {
+      "models": [
+        "pulverizer_1_5HP_2800RPM_I_Phase",
+        "pulverizer_1_5HP_2800RPM_III_Phase",
+        "pulverizer_2HP_2800RPM_I_Phase",
+        "pulverizer_2HP_2800RPM_III_Phase",
+        "pulverizer_3HP_2800RPM_I_Phase",
+        "pulverizer_3HP_2800RPM_III_Phase",
+        "pulverizer_5HP_2800RPM_I_Phase",
+        "pulverizer_5HP_2800RPM_III_Phase",
+        "pulverizer_7_5HP_2800RPM_I_Phase",
+        "pulverizer_7_5HP_2800RPM_III_Phase",
+        "pulverizer_10HP_2800RPM_I_Phase",
+        "pulverizer_10HP_2800RPM_III_Phase"
+      ],
+      "data": {
+        "pulverizer_1_5HP_2800RPM_I_Phase": [
+          {"name": "Name", "value": "Pulvarizor 1.5 HP I-Phase"},
+          {"name": "Electric Motor Capacity", "value": "1.5 HP 2880 RPM I-Phase"},
+          {"name": "Single Chamber", "value": "262 x 120"},
+          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
+          {"name": "Weight", "value": "85 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "18"},
+              {"name": "Juwar", "value": "18"},
+              {"name": "Millet", "value": "18"},
+              {"name": "Maize", "value": "12"},
+              {"name": "Rice", "value": "15"},
+              {"name": "Rawo", "value": "40"},
+              {"name": "Besan", "value": "25"},
+              {"name": "Sugar", "value": "50"},
+              {"name": "Coriander (Dry)", "value": "12"},
+              {"name": "Dry Chilies", "value": "10"},
+              {"name": "Turmeric", "value": "12"},
+              {"name": "Ambla", "value": "12"}
+            ]
+          }
+        ],
+        "pulverizer_1_5HP_2800RPM_III_Phase": [
+          {"name": "Name", "value": "Pulvarizor 1.5 HP III-Phase"},
+          {"name": "Electric Motor Capacity", "value": "1.5 HP 2880 RPM III-Phase"},
+          {"name": "Single Chamber", "value": "262 x 120"},
+          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
+          {"name": "Weight", "value": "85 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "18"},
+              {"name": "Juwar", "value": "18"},
+              {"name": "Millet", "value": "18"},
+              {"name": "Maize", "value": "12"},
+              {"name": "Rice", "value": "15"},
+              {"name": "Rawo", "value": "40"},
+              {"name": "Besan", "value": "25"},
+              {"name": "Sugar", "value": "50"},
+              {"name": "Coriander (Dry)", "value": "12"},
+              {"name": "Dry Chilies", "value": "10"},
+              {"name": "Turmeric", "value": "12"},
+              {"name": "Ambla", "value": "12"}
+            ]
+          }
+        ],
+        "pulverizer_2HP_2800RPM_I_Phase": [
+          {"name": "Name", "value": "Pulvarizor 2 HP I-Phase"},
+          {"name": "Electric Motor Capacity", "value": "2 HP 2880 RPM I-Phase"},
+          {"name": "Single Chamber", "value": "262 x 150"},
+          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
+          {"name": "Weight", "value": "90 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "30"},
+              {"name": "Juwar", "value": "30"},
+              {"name": "Millet", "value": "30"},
+              {"name": "Maize", "value": "20"},
+              {"name": "Rice", "value": "30"},
+              {"name": "Rawo", "value": "50"},
+              {"name": "Besan", "value": "40"},
+              {"name": "Sugar", "value": "65"},
+              {"name": "Coriander (Dry)", "value": "18"},
+              {"name": "Dry Chilies", "value": "12"},
+              {"name": "Turmeric", "value": "18"},
+              {"name": "Ambla", "value": "12"}
+            ]
+          }
+        ],
+        "pulverizer_2HP_2800RPM_III_Phase": [
+          {"name": "Name", "value": "Pulvarizor 2 HP III-Phase"},
+          {"name": "Electric Motor Capacity", "value": "2 HP 2880 RPM III-Phase"},
+          {"name": "Single Chamber", "value": "262 x 150"},
+          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
+          {"name": "Weight", "value": "90 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "30"},
+              {"name": "Juwar", "value": "30"},
+              {"name": "Millet", "value": "30"},
+              {"name": "Maize", "value": "20"},
+              {"name": "Rice", "value": "30"},
+              {"name": "Rawo", "value": "50"},
+              {"name": "Besan", "value": "40"},
+              {"name": "Sugar", "value": "65"},
+              {"name": "Coriander (Dry)", "value": "18"},
+              {"name": "Dry Chilies", "value": "12"},
+              {"name": "Turmeric", "value": "18"},
+              {"name": "Ambla", "value": "12"}
+            ]
+          }
+        ],
+        "pulverizer_3HP_2800RPM_I_Phase": [
+          {"name": "Name", "value": "Pulvarizor 3 HP I-Phase"},
+          {"name": "Electric Motor Capacity", "value": "3 HP 2880 RPM I-Phase"},
+          {"name": "Single Chamber", "value": "295 x 155"},
+          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
+          {"name": "Weight", "value": "95 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "38"},
+              {"name": "Juwar", "value": "38"},
+              {"name": "Millet", "value": "38"},
+              {"name": "Maize", "value": "25"},
+              {"name": "Rice", "value": "38"},
+              {"name": "Rawo", "value": "60"},
+              {"name": "Besan", "value": "60"},
+              {"name": "Sugar", "value": "80"},
+              {"name": "Coriander (Dry)", "value": "25"},
+              {"name": "Dry Chilies", "value": "15"},
+              {"name": "Turmeric", "value": "25"},
+              {"name": "Ambla", "value": "24"}
+            ]
+          }
+        ],
+        "pulverizer_3HP_2800RPM_III_Phase": [
+          {"name": "Name", "value": "Pulvarizor 3 HP III-Phase"},
+          {"name": "Electric Motor Capacity", "value": "3 HP 2880 RPM III-Phase"},
+          {"name": "Single Chamber", "value": "295 x 155"},
+          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
+          {"name": "Weight", "value": "95 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "38"},
+              {"name": "Juwar", "value": "38"},
+              {"name": "Millet", "value": "38"},
+              {"name": "Maize", "value": "25"},
+              {"name": "Rice", "value": "38"},
+              {"name": "Rawo", "value": "60"},
+              {"name": "Besan", "value": "60"},
+              {"name": "Sugar", "value": "80"},
+              {"name": "Coriander (Dry)", "value": "25"},
+              {"name": "Dry Chilies", "value": "15"},
+              {"name": "Turmeric", "value": "25"},
+              {"name": "Ambla", "value": "24"}
+            ]
+          }
+        ],
+        "pulverizer_5HP_2800RPM_I_Phase": [
+          {"name": "Name", "value": "Pulvarizor 5 HP I-Phase"},
+          {"name": "Electric Motor Capacity", "value": "5 HP 2880 RPM I-Phase"},
+          {"name": "Single Chamber", "value": "325 x 160"},
+          {"name": "Hopper Size (Approx.)", "value": "18 kgs"},
+          {"name": "Weight", "value": "110 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "690 x 465 x 1200"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "50"},
+              {"name": "Juwar", "value": "50"},
+              {"name": "Millet", "value": "50"},
+              {"name": "Maize", "value": "35"},
+              {"name": "Rice", "value": "50"},
+              {"name": "Rawo", "value": "90"},
+              {"name": "Besan", "value": "75"},
+              {"name": "Sugar", "value": "100"},
+              {"name": "Coriander (Dry)", "value": "35"},
+              {"name": "Dry Chilies", "value": "25"},
+              {"name": "Turmeric", "value": "25"},
+              {"name": "Ambla", "value": "35"}
+            ]
+          }
+        ],
+        "pulverizer_5HP_2800RPM_III_Phase": [
+          {"name": "Name", "value": "Pulvarizor 5 HP III-Phase"},
+          {"name": "Electric Motor Capacity", "value": "5 HP 2880 RPM III-Phase"},
+          {"name": "Single Chamber", "value": "325 x 160"},
+          {"name": "Hopper Size (Approx.)", "value": "18 kgs"},
+          {"name": "Weight", "value": "110 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "690 x 465 x 1200"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "50"},
+              {"name": "Juwar", "value": "50"},
+              {"name": "Millet", "value": "50"},
+              {"name": "Maize", "value": "35"},
+              {"name": "Rice", "value": "50"},
+              {"name": "Rawo", "value": "90"},
+              {"name": "Besan", "value": "75"},
+              {"name": "Sugar", "value": "100"},
+              {"name": "Coriander (Dry)", "value": "35"},
+              {"name": "Dry Chilies", "value": "25"},
+              {"name": "Turmeric", "value": "25"},
+              {"name": "Ambla", "value": "35"}
+            ]
+          }
+        ],
+        "pulverizer_7_5HP_2800RPM_I_Phase": [
+          {"name": "Name", "value": "Pulvarizor 7.5 HP I-Phase"},
+          {"name": "Electric Motor Capacity", "value": "7.5 HP 2880 RPM I-Phase"},
+          {"name": "Single Chamber", "value": "375 x 195"},
+          {"name": "Hopper Size (Approx.)", "value": "30 kgs"},
+          {"name": "Weight", "value": "195 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "850 x 575 x 1325"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "75"},
+              {"name": "Juwar", "value": "75"},
+              {"name": "Millet", "value": "75"},
+              {"name": "Maize", "value": "55"},
+              {"name": "Rice", "value": "75"},
+              {"name": "Rawo", "value": "140"},
+              {"name": "Besan", "value": "125"},
+              {"name": "Sugar", "value": "175"},
+              {"name": "Coriander (Dry)", "value": "55"},
+              {"name": "Dry Chilies", "value": "40"},
+              {"name": "Turmeric", "value": "55"},
+              {"name": "Ambla", "value": "55"}
+            ]
+          }
+        ],
+        "pulverizer_7_5HP_2800RPM_III_Phase": [
+          {"name": "Name", "value": "Pulvarizor 7.5 HP III-Phase"},
+          {"name": "Electric Motor Capacity", "value": "7.5 HP 2880 RPM III-Phase"},
+          {"name": "Single Chamber", "value": "375 x 195"},
+          {"name": "Hopper Size (Approx.)", "value": "30 kgs"},
+          {"name": "Weight", "value": "195 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "850 x 575 x 1325"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "75"},
+              {"name": "Juwar", "value": "75"},
+              {"name": "Millet", "value": "75"},
+              {"name": "Maize", "value": "55"},
+              {"name": "Rice", "value": "75"},
+              {"name": "Rawo", "value": "140"},
+              {"name": "Besan", "value": "125"},
+              {"name": "Sugar", "value": "175"},
+              {"name": "Coriander (Dry)", "value": "55"},
+              {"name": "Dry Chilies", "value": "40"},
+              {"name": "Turmeric", "value": "55"},
+              {"name": "Ambla", "value": "55"}
+            ]
+          }
+        ],
+        "pulverizer_10HP_2800RPM_I_Phase": [
+          {"name": "Name", "value": "Pulvarizor 10 HP I-Phase"},
+          {"name": "Electric Motor Capacity", "value": "10 HP 2880 RPM I-Phase"},
+          {"name": "Single Chamber", "value": "375 x 195"},
+          {"name": "Hopper Size (Approx.)", "value": "30 kgs"},
+          {"name": "Weight", "value": "210 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "850 x 575 x 1325"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "90"},
+              {"name": "Juwar", "value": "90"},
+              {"name": "Millet", "value": "90"},
+              {"name": "Maize", "value": "70"},
+              {"name": "Rice", "value": "90"},
+              {"name": "Rawo", "value": "200"},
+              {"name": "Besan", "value": "160"},
+              {"name": "Sugar", "value": "225"},
+              {"name": "Coriander (Dry)", "value": "70"},
+              {"name": "Dry Chilies", "value": "50"},
+              {"name": "Turmeric", "value": "70"},
+              {"name": "Ambla", "value": "70"}
+            ]
+          }
+        ],
+        "pulverizer_10HP_2800RPM_III_Phase": [
+          {"name": "Name", "value": "Pulvarizor 10 HP III-Phase"},
+          {"name": "Electric Motor Capacity", "value": "10 HP 2880 RPM III-Phase"},
+          {"name": "Single Chamber", "value": "375 x 195"},
+          {"name": "Hopper Size (Approx.)", "value": "30 kgs"},
+          {"name": "Weight", "value": "210 kgs"},
+          {"name": "Machine Size (L x W x H)", "value": "850 x 575 x 1325"},
+          {"name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {"name": "Wheat", "value": "90"},
+              {"name": "Juwar", "value": "90"},
+              {"name": "Millet", "value": "90"},
+              {"name": "Maize", "value": "70"},
+              {"name": "Rice", "value": "90"},
+              {"name": "Rawo", "value": "200"},
+              {"name": "Besan", "value": "160"},
+              {"name": "Sugar", "value": "225"},
+              {"name": "Coriander (Dry)", "value": "70"},
+              {"name": "Dry Chilies", "value": "50"},
+              {"name": "Turmeric", "value": "70"},
+              {"name": "Ambla", "value": "70"}
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "domestic": {
+    "table_Top": {
+      "models": [
+        "table_Top_6_Round_1_25HP_960RPM_230V",
+        "table_Top_6_Round_1_25HP_1440RPM_230V",
+        "table_Top_6_Square_1_25HP_960RPM_230V",
+        "table_Top_6_Square_1_25HP_1440RPM_230V",
+        "table_Top_7_Round_1_5HP_960RPM_230V",
+        "table_Top_7_Round_1_5HP_1440RPM_230V",
+        "table_Top_7_Square_1_5HP_960RPM_230V",
+        "table_Top_7_Square_1_5HP_1440RPM_230V"
+      ],
+      "data": {
+        "table_Top_6_Round_1_25HP_960RPM_230V": [
+          {
+            "name": "Name",
+            "value": "6\" Table Top Round"
+          },
+          {
+            "name": "Stone Size",
+            "value": "6\" (150 mm x 20 mm)"
+          },
+          {
+            "name": "Weight",
+            "value": "Approx. 30 kgs"
+          },
+          {
+            "name": "Size (H x B x L)",
+            "value": "57 x 20 x 25 cm"
+          },
+          {
+            "name": "Electric Motor Capacity",
+            "value": "1.25 HP 230 Volt 960 RPM"
+          },
+          {
+            "name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {
+                "name": "Wheat",
+                "value": "10"
+              },
+              {
+                "name": "Juwar",
+                "value": "8"
+              },
+              {
+                "name": "Millet",
+                "value": "8"
+              },
+              {
+                "name": "Rice",
+                "value": "10"
+              },
+              {
+                "name": "Chana (Dry)",
+                "value": "10"
+              },
+              {
+                "name": "Adad",
+                "value": "10"
+              },
+              {
+                "name": "Mag",
+                "value": "10"
+              },
+              {
+                "name": "Rawo",
+                "value": "10"
+              },
+              {
+                "name": "Coriander (Dry)",
+                "value": "10"
+              },
+              {
+                "name": "Turmeric",
+                "value": "10"
+              },
+              {
+                "name": "Dried Ginger",
+                "value": "8"
+              },
+              {
+                "name": "Black Pepper",
+                "value": "8"
+              },
+              {
+                "name": "Dry Chilly",
+                "value": "7"
+              }
+            ]
+          }
+        ],
+        "table_Top_6_Round_1_25HP_1440RPM_230V": [
+          {
+            "name": "Name",
+            "value": "6\" Table Top Round"
+          },
+          {
+            "name": "Stone Size",
+            "value": "6\" (150 mm x 20 mm)"
+          },
+          {
+            "name": "Weight",
+            "value": "Approx. 30 kgs"
+          },
+          {
+            "name": "Size (H x B x L)",
+            "value": "57 x 20 x 25 cm"
+          },
+          {
+            "name": "Electric Motor Capacity",
+            "value": "1.25 HP 230 Volt 1440 RPM"
+          },
+          {
+            "name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {
+                "name": "Wheat",
+                "value": "10"
+              },
+              {
+                "name": "Juwar",
+                "value": "8"
+              },
+              {
+                "name": "Millet",
+                "value": "8"
+              },
+              {
+                "name": "Rice",
+                "value": "10"
+              },
+              {
+                "name": "Chana (Dry)",
+                "value": "10"
+              },
+              {
+                "name": "Adad",
+                "value": "10"
+              },
+              {
+                "name": "Mag",
+                "value": "10"
+              },
+              {
+                "name": "Rawo",
+                "value": "10"
+              },
+              {
+                "name": "Coriander (Dry)",
+                "value": "10"
+              },
+              {
+                "name": "Turmeric",
+                "value": "10"
+              },
+              {
+                "name": "Dried Ginger",
+                "value": "8"
+              },
+              {
+                "name": "Black Pepper",
+                "value": "8"
+              },
+              {
+                "name": "Dry Chilly",
+                "value": "7"
+              }
+            ]
+          }
+        ],
+        "table_Top_6_Square_1_25HP_960RPM_230V": [
+          {
+            "name": "Name",
+            "value": "6\" Table Top Square"
+          },
+          {
+            "name": "Stone Size",
+            "value": "6\" (150 mm x 20 mm)"
+          },
+          {
+            "name": "Weight",
+            "value": "Approx. 30 kgs"
+          },
+          {
+            "name": "Size (H x B x L)",
+            "value": "57 x 20 x 25 cm"
+          },
+          {
+            "name": "Electric Motor Capacity",
+            "value": "1.25 HP 230 Volt 960 RPM"
+          },
+          {
+            "name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {
+                "name": "Wheat",
+                "value": "10"
+              },
+              {
+                "name": "Juwar",
+                "value": "8"
+              },
+              {
+                "name": "Millet",
+                "value": "8"
+              },
+              {
+                "name": "Rice",
+                "value": "10"
+              },
+              {
+                "name": "Chana (Dry)",
+                "value": "10"
+              },
+              {
+                "name": "Adad",
+                "value": "10"
+              },
+              {
+                "name": "Mag",
+                "value": "10"
+              },
+              {
+                "name": "Rawo",
+                "value": "10"
+              },
+              {
+                "name": "Coriander (Dry)",
+                "value": "10"
+              },
+              {
+                "name": "Turmeric",
+                "value": "10"
+              },
+              {
+                "name": "Dried Ginger",
+                "value": "8"
+              },
+              {
+                "name": "Black Pepper",
+                "value": "8"
+              },
+              {
+                "name": "Dry Chilly",
+                "value": "7"
+              }
+            ]
+          }
+        ],
+        "table_Top_6_Square_1_25HP_1440RPM_230V": [
+          {
+            "name": "Name",
+            "value": "6\" Table Top Square"
+          },
+          {
+            "name": "Stone Size",
+            "value": "6\" (150 mm x 20 mm)"
+          },
+          {
+            "name": "Weight",
+            "value": "Approx. 30 kgs"
+          },
+          {
+            "name": "Size (H x B x L)",
+            "value": "57 x 20 x 25 cm"
+          },
+          {
+            "name": "Electric Motor Capacity",
+            "value": "1.25 HP 230 Volt 1440 RPM"
+          },
+          {
+            "name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {
+                "name": "Wheat",
+                "value": "10"
+              },
+              {
+                "name": "Juwar",
+                "value": "8"
+              },
+              {
+                "name": "Millet",
+                "value": "8"
+              },
+              {
+                "name": "Rice",
+                "value": "10"
+              },
+              {
+                "name": "Chana (Dry)",
+                "value": "10"
+              },
+              {
+                "name": "Adad",
+                "value": "10"
+              },
+              {
+                "name": "Mag",
+                "value": "10"
+              },
+              {
+                "name": "Rawo",
+                "value": "10"
+              },
+              {
+                "name": "Coriander (Dry)",
+                "value": "10"
+              },
+              {
+                "name": "Turmeric",
+                "value": "10"
+              },
+              {
+                "name": "Dried Ginger",
+                "value": "8"
+              },
+              {
+                "name": "Black Pepper",
+                "value": "8"
+              },
+              {
+                "name": "Dry Chilly",
+                "value": "7"
+              }
+            ]
+          }
+        ],
+        "table_Top_7_Round_1_5HP_960RPM_230V": [
+          {
+            "name": "Name",
+            "value": "7\" Table Top Round"
+          },
+          {
+            "name": "Stone Size",
+            "value": "7\" (180 mm x 20 mm)"
+          },
+          {
+            "name": "Weight",
+            "value": "Approx. 37 kgs"
+          },
+          {
+            "name": "Size (H x B x L)",
+            "value": "57 x 22.5 x 27.5 cm"
+          },
+          {
+            "name": "Electric Motor Capacity",
+            "value": "1.5 HP 230 Volt 960 RPM"
+          },
+          {
+            "name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {
+                "name": "Wheat",
+                "value": "14"
+              },
+              {
+                "name": "Juwar",
+                "value": "12"
+              },
+              {
+                "name": "Millet",
+                "value": "12"
+              },
+              {
+                "name": "Rice",
+                "value": "14"
+              },
+              {
+                "name": "Chana (Dry)",
+                "value": "14"
+              },
+              {
+                "name": "Adad",
+                "value": "14"
+              },
+              {
+                "name": "Mag",
+                "value": "14"
+              },
+              {
+                "name": "Rawo",
+                "value": "14"
+              },
+              {
+                "name": "Coriander (Dry)",
+                "value": "14"
+              },
+              {
+                "name": "Turmeric",
+                "value": "14"
+              },
+              {
+                "name": "Dried Ginger",
+                "value": "12"
+              },
+              {
+                "name": "Black Pepper",
+                "value": "12"
+              },
+              {
+                "name": "Dry Chilly",
+                "value": "11"
+              }
+            ]
+          }
+        ],
+        "table_Top_7_Round_1_5HP_1440RPM_230V": [
+          {
+            "name": "Name",
+            "value": "7\" Table Top Round"
+          },
+          {
+            "name": "Stone Size",
+            "value": "7\" (180 mm x 20 mm)"
+          },
+          {
+            "name": "Weight",
+            "value": "Approx. 37 kgs"
+          },
+          {
+            "name": "Size (H x B x L)",
+            "value": "57 x 22.5 x 27.5 cm"
+          },
+          {
+            "name": "Electric Motor Capacity",
+            "value": "1.5 HP 230 Volt 1440 RPM"
+          },
+          {
+            "name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {
+                "name": "Wheat",
+                "value": "14"
+              },
+              {
+                "name": "Juwar",
+                "value": "12"
+              },
+              {
+                "name": "Millet",
+                "value": "12"
+              },
+              {
+                "name": "Rice",
+                "value": "14"
+              },
+              {
+                "name": "Chana (Dry)",
+                "value": "14"
+              },
+              {
+                "name": "Adad",
+                "value": "14"
+              },
+              {
+                "name": "Mag",
+                "value": "14"
+              },
+              {
+                "name": "Rawo",
+                "value": "14"
+              },
+              {
+                "name": "Coriander (Dry)",
+                "value": "14"
+              },
+              {
+                "name": "Turmeric",
+                "value": "14"
+              },
+              {
+                "name": "Dried Ginger",
+                "value": "12"
+              },
+              {
+                "name": "Black Pepper",
+                "value": "12"
+              },
+              {
+                "name": "Dry Chilly",
+                "value": "11"
+              }
+            ]
+          }
+        ],
+        "table_Top_7_Square_1_5HP_960RPM_230V": [
+          {
+            "name": "Name",
+            "value": "7\" Table Top Square"
+          },
+          {
+            "name": "Stone Size",
+            "value": "7\" (180 mm x 20 mm)"
+          },
+          {
+            "name": "Weight",
+            "value": "Approx. 37 kgs"
+          },
+          {
+            "name": "Size (H x B x L)",
+            "value": "57 x 22.5 x 27.5 cm"
+          },
+          {
+            "name": "Electric Motor Capacity",
+            "value": "1.5 HP 230 Volt 960 RPM"
+          },
+          {
+            "name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {
+                "name": "Wheat",
+                "value": "14"
+              },
+              {
+                "name": "Juwar",
+                "value": "12"
+              },
+              {
+                "name": "Millet",
+                "value": "12"
+              },
+              {
+                "name": "Rice",
+                "value": "14"
+              },
+              {
+                "name": "Chana (Dry)",
+                "value": "14"
+              },
+              {
+                "name": "Adad",
+                "value": "14"
+              },
+              {
+                "name": "Mag",
+                "value": "14"
+              },
+              {
+                "name": "Rawo",
+                "value": "14"
+              },
+              {
+                "name": "Coriander (Dry)",
+                "value": "14"
+              },
+              {
+                "name": "Turmeric",
+                "value": "14"
+              },
+              {
+                "name": "Dried Ginger",
+                "value": "12"
+              },
+              {
+                "name": "Black Pepper",
+                "value": "12"
+              },
+              {
+                "name": "Dry Chilly",
+                "value": "11"
+              }
+            ]
+          }
+        ],
+        "table_Top_7_Square_1_5HP_1440RPM_230V": [
+          {
+            "name": "Name",
+            "value": "7\" Table Top Square"
+          },
+          {
+            "name": "Stone Size",
+            "value": "7\" (180 mm x 20 mm)"
+          },
+          {
+            "name": "Weight",
+            "value": "Approx. 37 kgs"
+          },
+          {
+            "name": "Size (H x B x L)",
+            "value": "57 x 22.5 x 27.5 cm"
+          },
+          {
+            "name": "Electric Motor Capacity",
+            "value": "1.5 HP 230 Volt 1440 RPM"
+          },
+          {
+            "name": "Grinding Average (kgs per Hour Approx.)",
+            "value": [
+              {
+                "name": "Wheat",
+                "value": "14"
+              },
+              {
+                "name": "Juwar",
+                "value": "12"
+              },
+              {
+                "name": "Millet",
+                "value": "12"
+              },
+              {
+                "name": "Rice",
+                "value": "14"
+              },
+              {
+                "name": "Chana (Dry)",
+                "value": "14"
+              },
+              {
+                "name": "Adad",
+                "value": "14"
+              },
+              {
+                "name": "Mag",
+                "value": "14"
+              },
+              {
+                "name": "Rawo",
+                "value": "14"
+              },
+              {
+                "name": "Coriander (Dry)",
+                "value": "14"
+              },
+              {
+                "name": "Turmeric",
+                "value": "14"
+              },
+              {
+                "name": "Dried Ginger",
+                "value": "12"
+              },
+              {
+                "name": "Black Pepper",
+                "value": "12"
+              },
+              {
+                "name": "Dry Chilly",
+                "value": "11"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "stoneless": {
+      "models": [
+        "stoneless_fully_auto_1HP_2800RPM"
+      ],
+      "data": {
+        "stoneless_fully_auto_1HP_2800RPM": [
+          {
+            "name": "Name",
+            "value": "Fully Auto Stoneless Flourmill"
+          },
+          {
+            "name": "Electric Motor Capacity",
+            "value": "1 HP 750 W 2800 RPM Clutchless Single Phase"
+          },
+          {
+            "name": "Power Supply",
+            "value": "210 V 50 Hz"
+          },
+          {
+            "name": "Electric Consumption",
+            "value": "0.75 Unit Per Hour (Approx.)"
+          },
+          {
+            "name": "Weight",
+            "value": "50 kgs (Approx.)"
+          },
+          {
+            "name": "Size (H x B x L)",
+            "value": "89 x 33 x 50 cm"
+          },
+          {
+            "name": "Grinding Average (kgs per Hour Approx.)",
+            "value": []
+          }
+        ]
+      }
+    }
+  }
+}
