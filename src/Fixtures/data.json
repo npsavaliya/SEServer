@@ -538,294 +538,294 @@
         "pulverizer_10HP_2800RPM_III_Phase"
       ],
       "data": {
-        "pulverizer_1_5HP_2800RPM_I_Phase": [
-          {"name": "Name", "value": "Pulvarizor 1.5 HP I-Phase"},
-          {"name": "Electric Motor Capacity", "value": "1.5 HP 2880 RPM I-Phase"},
-          {"name": "Single Chamber", "value": "262 x 120"},
-          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
-          {"name": "Weight", "value": "85 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        "pulverizer_1_5HP_2800RPM_I_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 1.5 HP I-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.5 HP 2880 RPM I-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "262 mm x 120 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "15 kgs" },
+          "weight": { "name": "Weight", "value": "85 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "640 mm x 415 mm x 1040 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "18"},
-              {"name": "Juwar", "value": "18"},
-              {"name": "Millet", "value": "18"},
-              {"name": "Maize", "value": "12"},
-              {"name": "Rice", "value": "15"},
-              {"name": "Rawo", "value": "40"},
-              {"name": "Besan", "value": "25"},
-              {"name": "Sugar", "value": "50"},
-              {"name": "Coriander (Dry)", "value": "12"},
-              {"name": "Dry Chilies", "value": "10"},
-              {"name": "Turmeric", "value": "12"},
-              {"name": "Ambla", "value": "12"}
+              { "name": "Wheat", "value": "18" },
+              { "name": "Juwar", "value": "18" },
+              { "name": "Millet", "value": "18" },
+              { "name": "Maize", "value": "12" },
+              { "name": "Rice", "value": "15" },
+              { "name": "Rawo", "value": "40" },
+              { "name": "Besan", "value": "25" },
+              { "name": "Sugar", "value": "50" },
+              { "name": "Coriander (Dry)", "value": "12" },
+              { "name": "Dry Chilies", "value": "10" },
+              { "name": "Turmeric", "value": "12" },
+              { "name": "Ambla", "value": "12" }
             ]
           }
-        ],
-        "pulverizer_1_5HP_2800RPM_III_Phase": [
-          {"name": "Name", "value": "Pulvarizor 1.5 HP III-Phase"},
-          {"name": "Electric Motor Capacity", "value": "1.5 HP 2880 RPM III-Phase"},
-          {"name": "Single Chamber", "value": "262 x 120"},
-          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
-          {"name": "Weight", "value": "85 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "pulverizer_1_5HP_2800RPM_III_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 1.5 HP III-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.5 HP 2880 RPM III-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "262 mm x 120 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "15 kgs" },
+          "weight": { "name": "Weight", "value": "85 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "640 mm x 415 mm x 1040 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "18"},
-              {"name": "Juwar", "value": "18"},
-              {"name": "Millet", "value": "18"},
-              {"name": "Maize", "value": "12"},
-              {"name": "Rice", "value": "15"},
-              {"name": "Rawo", "value": "40"},
-              {"name": "Besan", "value": "25"},
-              {"name": "Sugar", "value": "50"},
-              {"name": "Coriander (Dry)", "value": "12"},
-              {"name": "Dry Chilies", "value": "10"},
-              {"name": "Turmeric", "value": "12"},
-              {"name": "Ambla", "value": "12"}
+              { "name": "Wheat", "value": "18" },
+              { "name": "Juwar", "value": "18" },
+              { "name": "Millet", "value": "18" },
+              { "name": "Maize", "value": "12" },
+              { "name": "Rice", "value": "15" },
+              { "name": "Rawo", "value": "40" },
+              { "name": "Besan", "value": "25" },
+              { "name": "Sugar", "value": "50" },
+              { "name": "Coriander (Dry)", "value": "12" },
+              { "name": "Dry Chilies", "value": "10" },
+              { "name": "Turmeric", "value": "12" },
+              { "name": "Ambla", "value": "12" }
             ]
           }
-        ],
-        "pulverizer_2HP_2800RPM_I_Phase": [
-          {"name": "Name", "value": "Pulvarizor 2 HP I-Phase"},
-          {"name": "Electric Motor Capacity", "value": "2 HP 2880 RPM I-Phase"},
-          {"name": "Single Chamber", "value": "262 x 150"},
-          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
-          {"name": "Weight", "value": "90 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "pulverizer_2HP_2800RPM_I_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 2 HP I-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "2 HP 2880 RPM I-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "262 mm x 150 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "15 kgs" },
+          "weight": { "name": "Weight", "value": "90 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "640 mm x 415 mm x 1040 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "30"},
-              {"name": "Juwar", "value": "30"},
-              {"name": "Millet", "value": "30"},
-              {"name": "Maize", "value": "20"},
-              {"name": "Rice", "value": "30"},
-              {"name": "Rawo", "value": "50"},
-              {"name": "Besan", "value": "40"},
-              {"name": "Sugar", "value": "65"},
-              {"name": "Coriander (Dry)", "value": "18"},
-              {"name": "Dry Chilies", "value": "12"},
-              {"name": "Turmeric", "value": "18"},
-              {"name": "Ambla", "value": "12"}
+              { "name": "Wheat", "value": "30" },
+              { "name": "Juwar", "value": "30" },
+              { "name": "Millet", "value": "30" },
+              { "name": "Maize", "value": "20" },
+              { "name": "Rice", "value": "30" },
+              { "name": "Rawo", "value": "50" },
+              { "name": "Besan", "value": "40" },
+              { "name": "Sugar", "value": "65" },
+              { "name": "Coriander (Dry)", "value": "18" },
+              { "name": "Dry Chilies", "value": "12" },
+              { "name": "Turmeric", "value": "18" },
+              { "name": "Ambla", "value": "12" }
             ]
           }
-        ],
-        "pulverizer_2HP_2800RPM_III_Phase": [
-          {"name": "Name", "value": "Pulvarizor 2 HP III-Phase"},
-          {"name": "Electric Motor Capacity", "value": "2 HP 2880 RPM III-Phase"},
-          {"name": "Single Chamber", "value": "262 x 150"},
-          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
-          {"name": "Weight", "value": "90 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "pulverizer_2HP_2800RPM_III_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 2 HP III-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "2 HP 2880 RPM III-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "262 mm x 150 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "15 kgs" },
+          "weight": { "name": "Weight", "value": "90 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "640 mm x 415 mm x 1040 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "30"},
-              {"name": "Juwar", "value": "30"},
-              {"name": "Millet", "value": "30"},
-              {"name": "Maize", "value": "20"},
-              {"name": "Rice", "value": "30"},
-              {"name": "Rawo", "value": "50"},
-              {"name": "Besan", "value": "40"},
-              {"name": "Sugar", "value": "65"},
-              {"name": "Coriander (Dry)", "value": "18"},
-              {"name": "Dry Chilies", "value": "12"},
-              {"name": "Turmeric", "value": "18"},
-              {"name": "Ambla", "value": "12"}
+              { "name": "Wheat", "value": "30" },
+              { "name": "Juwar", "value": "30" },
+              { "name": "Millet", "value": "30" },
+              { "name": "Maize", "value": "20" },
+              { "name": "Rice", "value": "30" },
+              { "name": "Rawo", "value": "50" },
+              { "name": "Besan", "value": "40" },
+              { "name": "Sugar", "value": "65" },
+              { "name": "Coriander (Dry)", "value": "18" },
+              { "name": "Dry Chilies", "value": "12" },
+              { "name": "Turmeric", "value": "18" },
+              { "name": "Ambla", "value": "12" }
             ]
           }
-        ],
-        "pulverizer_3HP_2800RPM_I_Phase": [
-          {"name": "Name", "value": "Pulvarizor 3 HP I-Phase"},
-          {"name": "Electric Motor Capacity", "value": "3 HP 2880 RPM I-Phase"},
-          {"name": "Single Chamber", "value": "295 x 155"},
-          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
-          {"name": "Weight", "value": "95 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "pulverizer_3HP_2800RPM_I_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 3 HP I-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "3 HP 2880 RPM I-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "295 mm x 155 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "15 kgs" },
+          "weight": { "name": "Weight", "value": "95 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "640 mm x 415 mm x 1040 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "38"},
-              {"name": "Juwar", "value": "38"},
-              {"name": "Millet", "value": "38"},
-              {"name": "Maize", "value": "25"},
-              {"name": "Rice", "value": "38"},
-              {"name": "Rawo", "value": "60"},
-              {"name": "Besan", "value": "60"},
-              {"name": "Sugar", "value": "80"},
-              {"name": "Coriander (Dry)", "value": "25"},
-              {"name": "Dry Chilies", "value": "15"},
-              {"name": "Turmeric", "value": "25"},
-              {"name": "Ambla", "value": "24"}
+              { "name": "Wheat", "value": "38" },
+              { "name": "Juwar", "value": "38" },
+              { "name": "Millet", "value": "38" },
+              { "name": "Maize", "value": "25" },
+              { "name": "Rice", "value": "38" },
+              { "name": "Rawo", "value": "60" },
+              { "name": "Besan", "value": "60" },
+              { "name": "Sugar", "value": "80" },
+              { "name": "Coriander (Dry)", "value": "25" },
+              { "name": "Dry Chilies", "value": "15" },
+              { "name": "Turmeric", "value": "25" },
+              { "name": "Ambla", "value": "24" }
             ]
           }
-        ],
-        "pulverizer_3HP_2800RPM_III_Phase": [
-          {"name": "Name", "value": "Pulvarizor 3 HP III-Phase"},
-          {"name": "Electric Motor Capacity", "value": "3 HP 2880 RPM III-Phase"},
-          {"name": "Single Chamber", "value": "295 x 155"},
-          {"name": "Hopper Size (Approx.)", "value": "15 kgs"},
-          {"name": "Weight", "value": "95 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "640 x 415 x 1040"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "pulverizer_3HP_2800RPM_III_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 3 HP III-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "3 HP 2880 RPM III-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "295 mm x 155 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "15 kgs" },
+          "weight": { "name": "Weight", "value": "95 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "640 mm x 415 mm x 1040 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "38"},
-              {"name": "Juwar", "value": "38"},
-              {"name": "Millet", "value": "38"},
-              {"name": "Maize", "value": "25"},
-              {"name": "Rice", "value": "38"},
-              {"name": "Rawo", "value": "60"},
-              {"name": "Besan", "value": "60"},
-              {"name": "Sugar", "value": "80"},
-              {"name": "Coriander (Dry)", "value": "25"},
-              {"name": "Dry Chilies", "value": "15"},
-              {"name": "Turmeric", "value": "25"},
-              {"name": "Ambla", "value": "24"}
+              { "name": "Wheat", "value": "38" },
+              { "name": "Juwar", "value": "38" },
+              { "name": "Millet", "value": "38" },
+              { "name": "Maize", "value": "25" },
+              { "name": "Rice", "value": "38" },
+              { "name": "Rawo", "value": "60" },
+              { "name": "Besan", "value": "60" },
+              { "name": "Sugar", "value": "80" },
+              { "name": "Coriander (Dry)", "value": "25" },
+              { "name": "Dry Chilies", "value": "15" },
+              { "name": "Turmeric", "value": "25" },
+              { "name": "Ambla", "value": "24" }
             ]
           }
-        ],
-        "pulverizer_5HP_2800RPM_I_Phase": [
-          {"name": "Name", "value": "Pulvarizor 5 HP I-Phase"},
-          {"name": "Electric Motor Capacity", "value": "5 HP 2880 RPM I-Phase"},
-          {"name": "Single Chamber", "value": "325 x 160"},
-          {"name": "Hopper Size (Approx.)", "value": "18 kgs"},
-          {"name": "Weight", "value": "110 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "690 x 465 x 1200"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "pulverizer_5HP_2800RPM_I_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 5 HP I-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 2880 RPM I-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "325 mm x 160 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "18 kgs" },
+          "weight": { "name": "Weight", "value": "110 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "690 mm x 465 mm x 1200 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "50"},
-              {"name": "Juwar", "value": "50"},
-              {"name": "Millet", "value": "50"},
-              {"name": "Maize", "value": "35"},
-              {"name": "Rice", "value": "50"},
-              {"name": "Rawo", "value": "90"},
-              {"name": "Besan", "value": "75"},
-              {"name": "Sugar", "value": "100"},
-              {"name": "Coriander (Dry)", "value": "35"},
-              {"name": "Dry Chilies", "value": "25"},
-              {"name": "Turmeric", "value": "25"},
-              {"name": "Ambla", "value": "35"}
+              { "name": "Wheat", "value": "50" },
+              { "name": "Juwar", "value": "50" },
+              { "name": "Millet", "value": "50" },
+              { "name": "Maize", "value": "35" },
+              { "name": "Rice", "value": "50" },
+              { "name": "Rawo", "value": "90" },
+              { "name": "Besan", "value": "75" },
+              { "name": "Sugar", "value": "100" },
+              { "name": "Coriander (Dry)", "value": "35" },
+              { "name": "Dry Chilies", "value": "25" },
+              { "name": "Turmeric", "value": "25" },
+              { "name": "Ambla", "value": "35" }
             ]
           }
-        ],
-        "pulverizer_5HP_2800RPM_III_Phase": [
-          {"name": "Name", "value": "Pulvarizor 5 HP III-Phase"},
-          {"name": "Electric Motor Capacity", "value": "5 HP 2880 RPM III-Phase"},
-          {"name": "Single Chamber", "value": "325 x 160"},
-          {"name": "Hopper Size (Approx.)", "value": "18 kgs"},
-          {"name": "Weight", "value": "110 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "690 x 465 x 1200"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "pulverizer_5HP_2800RPM_III_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 5 HP III-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 2880 RPM III-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "325 mm x 160 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "18 kgs" },
+          "weight": { "name": "Weight", "value": "110 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "690 mm x 465 mm x 1200 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "50"},
-              {"name": "Juwar", "value": "50"},
-              {"name": "Millet", "value": "50"},
-              {"name": "Maize", "value": "35"},
-              {"name": "Rice", "value": "50"},
-              {"name": "Rawo", "value": "90"},
-              {"name": "Besan", "value": "75"},
-              {"name": "Sugar", "value": "100"},
-              {"name": "Coriander (Dry)", "value": "35"},
-              {"name": "Dry Chilies", "value": "25"},
-              {"name": "Turmeric", "value": "25"},
-              {"name": "Ambla", "value": "35"}
+              { "name": "Wheat", "value": "50" },
+              { "name": "Juwar", "value": "50" },
+              { "name": "Millet", "value": "50" },
+              { "name": "Maize", "value": "35" },
+              { "name": "Rice", "value": "50" },
+              { "name": "Rawo", "value": "90" },
+              { "name": "Besan", "value": "75" },
+              { "name": "Sugar", "value": "100" },
+              { "name": "Coriander (Dry)", "value": "35" },
+              { "name": "Dry Chilies", "value": "25" },
+              { "name": "Turmeric", "value": "25" },
+              { "name": "Ambla", "value": "35" }
             ]
           }
-        ],
-        "pulverizer_7_5HP_2800RPM_I_Phase": [
-          {"name": "Name", "value": "Pulvarizor 7.5 HP I-Phase"},
-          {"name": "Electric Motor Capacity", "value": "7.5 HP 2880 RPM I-Phase"},
-          {"name": "Single Chamber", "value": "375 x 195"},
-          {"name": "Hopper Size (Approx.)", "value": "30 kgs"},
-          {"name": "Weight", "value": "195 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "850 x 575 x 1325"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "pulverizer_7_5HP_2800RPM_I_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 7.5 HP I-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 2880 RPM I-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "375 mm x 195 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "30 kgs" },
+          "weight": { "name": "Weight", "value": "195 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "850 mm x 575 mm x 1325 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "75"},
-              {"name": "Juwar", "value": "75"},
-              {"name": "Millet", "value": "75"},
-              {"name": "Maize", "value": "55"},
-              {"name": "Rice", "value": "75"},
-              {"name": "Rawo", "value": "140"},
-              {"name": "Besan", "value": "125"},
-              {"name": "Sugar", "value": "175"},
-              {"name": "Coriander (Dry)", "value": "55"},
-              {"name": "Dry Chilies", "value": "40"},
-              {"name": "Turmeric", "value": "55"},
-              {"name": "Ambla", "value": "55"}
+              { "name": "Wheat", "value": "75" },
+              { "name": "Juwar", "value": "75" },
+              { "name": "Millet", "value": "75" },
+              { "name": "Maize", "value": "55" },
+              { "name": "Rice", "value": "75" },
+              { "name": "Rawo", "value": "140" },
+              { "name": "Besan", "value": "125" },
+              { "name": "Sugar", "value": "175" },
+              { "name": "Coriander (Dry)", "value": "55" },
+              { "name": "Dry Chilies", "value": "40" },
+              { "name": "Turmeric", "value": "55" },
+              { "name": "Ambla", "value": "55" }
             ]
           }
-        ],
-        "pulverizer_7_5HP_2800RPM_III_Phase": [
-          {"name": "Name", "value": "Pulvarizor 7.5 HP III-Phase"},
-          {"name": "Electric Motor Capacity", "value": "7.5 HP 2880 RPM III-Phase"},
-          {"name": "Single Chamber", "value": "375 x 195"},
-          {"name": "Hopper Size (Approx.)", "value": "30 kgs"},
-          {"name": "Weight", "value": "195 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "850 x 575 x 1325"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "pulverizer_7_5HP_2800RPM_III_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 7.5 HP III-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 2880 RPM III-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "375 mm x 195 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "30 kgs" },
+          "weight": { "name": "Weight", "value": "195 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "850 mm x 575 mm x 1325 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "75"},
-              {"name": "Juwar", "value": "75"},
-              {"name": "Millet", "value": "75"},
-              {"name": "Maize", "value": "55"},
-              {"name": "Rice", "value": "75"},
-              {"name": "Rawo", "value": "140"},
-              {"name": "Besan", "value": "125"},
-              {"name": "Sugar", "value": "175"},
-              {"name": "Coriander (Dry)", "value": "55"},
-              {"name": "Dry Chilies", "value": "40"},
-              {"name": "Turmeric", "value": "55"},
-              {"name": "Ambla", "value": "55"}
+              { "name": "Wheat", "value": "75" },
+              { "name": "Juwar", "value": "75" },
+              { "name": "Millet", "value": "75" },
+              { "name": "Maize", "value": "55" },
+              { "name": "Rice", "value": "75" },
+              { "name": "Rawo", "value": "140" },
+              { "name": "Besan", "value": "125" },
+              { "name": "Sugar", "value": "175" },
+              { "name": "Coriander (Dry)", "value": "55" },
+              { "name": "Dry Chilies", "value": "40" },
+              { "name": "Turmeric", "value": "55" },
+              { "name": "Ambla", "value": "55" }
             ]
           }
-        ],
-        "pulverizer_10HP_2800RPM_I_Phase": [
-          {"name": "Name", "value": "Pulvarizor 10 HP I-Phase"},
-          {"name": "Electric Motor Capacity", "value": "10 HP 2880 RPM I-Phase"},
-          {"name": "Single Chamber", "value": "375 x 195"},
-          {"name": "Hopper Size (Approx.)", "value": "30 kgs"},
-          {"name": "Weight", "value": "210 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "850 x 575 x 1325"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "pulverizer_10HP_2800RPM_I_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 10 HP I-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 2880 RPM I-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "375 mm x 195 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "30 kgs" },
+          "weight": { "name": "Weight", "value": "210 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "850 mm x 575 mm x 1325 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "90"},
-              {"name": "Juwar", "value": "90"},
-              {"name": "Millet", "value": "90"},
-              {"name": "Maize", "value": "70"},
-              {"name": "Rice", "value": "90"},
-              {"name": "Rawo", "value": "200"},
-              {"name": "Besan", "value": "160"},
-              {"name": "Sugar", "value": "225"},
-              {"name": "Coriander (Dry)", "value": "70"},
-              {"name": "Dry Chilies", "value": "50"},
-              {"name": "Turmeric", "value": "70"},
-              {"name": "Ambla", "value": "70"}
+              { "name": "Wheat", "value": "90" },
+              { "name": "Juwar", "value": "90" },
+              { "name": "Millet", "value": "90" },
+              { "name": "Maize", "value": "70" },
+              { "name": "Rice", "value": "90" },
+              { "name": "Rawo", "value": "200" },
+              { "name": "Besan", "value": "160" },
+              { "name": "Sugar", "value": "225" },
+              { "name": "Coriander (Dry)", "value": "70" },
+              { "name": "Dry Chilies", "value": "50" },
+              { "name": "Turmeric", "value": "70" },
+              { "name": "Ambla", "value": "70" }
             ]
           }
-        ],
-        "pulverizer_10HP_2800RPM_III_Phase": [
-          {"name": "Name", "value": "Pulvarizor 10 HP III-Phase"},
-          {"name": "Electric Motor Capacity", "value": "10 HP 2880 RPM III-Phase"},
-          {"name": "Single Chamber", "value": "375 x 195"},
-          {"name": "Hopper Size (Approx.)", "value": "30 kgs"},
-          {"name": "Weight", "value": "210 kgs"},
-          {"name": "Machine Size (L x W x H)", "value": "850 x 575 x 1325"},
-          {"name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "pulverizer_10HP_2800RPM_III_Phase": {
+          "name": { "name": "Name", "value": "Pulvarizor 10 HP III-Phase" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 2880 RPM III-Phase" },
+          "singleChamberSize": { "name": "Single Chamber Size", "value": "375 mm x 195 mm" },
+          "hopperSize": { "name": "Hopper Size (Approx.)", "value": "30 kgs" },
+          "weight": { "name": "Weight", "value": "210 kgs" },
+          "machineSize": { "name": "Machine Size (L x W x H)", "value": "850 mm x 575 mm x 1325 mm" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {"name": "Wheat", "value": "90"},
-              {"name": "Juwar", "value": "90"},
-              {"name": "Millet", "value": "90"},
-              {"name": "Maize", "value": "70"},
-              {"name": "Rice", "value": "90"},
-              {"name": "Rawo", "value": "200"},
-              {"name": "Besan", "value": "160"},
-              {"name": "Sugar", "value": "225"},
-              {"name": "Coriander (Dry)", "value": "70"},
-              {"name": "Dry Chilies", "value": "50"},
-              {"name": "Turmeric", "value": "70"},
-              {"name": "Ambla", "value": "70"}
+              { "name": "Wheat", "value": "90" },
+              { "name": "Juwar", "value": "90" },
+              { "name": "Millet", "value": "90" },
+              { "name": "Maize", "value": "70" },
+              { "name": "Rice", "value": "90" },
+              { "name": "Rawo", "value": "200" },
+              { "name": "Besan", "value": "160" },
+              { "name": "Sugar", "value": "225" },
+              { "name": "Coriander (Dry)", "value": "70" },
+              { "name": "Dry Chilies", "value": "50" },
+              { "name": "Turmeric", "value": "70" },
+              { "name": "Ambla", "value": "70" }
             ]
           }
-        ]
+        }
       }
     }
   },
@@ -837,643 +837,153 @@
         "table_Top_6_Square_1_25HP_960RPM_230V",
         "table_Top_6_Square_1_25HP_1440RPM_230V",
         "table_Top_7_Round_1_5HP_960RPM_230V",
-        "table_Top_7_Round_1_5HP_1440RPM_230V",
-        "table_Top_7_Square_1_5HP_960RPM_230V",
-        "table_Top_7_Square_1_5HP_1440RPM_230V"
+        "table_Top_7_Square_1_5HP_960RPM_230V"
       ],
       "data": {
-        "table_Top_6_Round_1_25HP_960RPM_230V": [
-          {
-            "name": "Name",
-            "value": "6\" Table Top Round"
-          },
-          {
-            "name": "Stone Size",
-            "value": "6\" (150 mm x 20 mm)"
-          },
-          {
-            "name": "Weight",
-            "value": "Approx. 30 kgs"
-          },
-          {
-            "name": "Size (H x B x L)",
-            "value": "57 x 20 x 25 cm"
-          },
-          {
-            "name": "Electric Motor Capacity",
-            "value": "1.25 HP 230 Volt 960 RPM"
-          },
-          {
-            "name": "Grinding Average (kgs per Hour Approx.)",
+        "table_Top_6_Round_1_25HP_960RPM_230V": {
+          "name": { "name": "Name", "value": "6\" Table Top Round" },
+          "grindingStone": { "name": "Grinding Stone", "value": "6\" (150 mm x 20 mm)" },
+          "weight": { "name": "Weight", "value": "Approx. 30 kgs" },
+          "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 20 x 25 cm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.25 HP 230 Volt 960 RPM" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {
-                "name": "Wheat",
-                "value": "10"
-              },
-              {
-                "name": "Juwar",
-                "value": "8"
-              },
-              {
-                "name": "Millet",
-                "value": "8"
-              },
-              {
-                "name": "Rice",
-                "value": "10"
-              },
-              {
-                "name": "Chana (Dry)",
-                "value": "10"
-              },
-              {
-                "name": "Adad",
-                "value": "10"
-              },
-              {
-                "name": "Mag",
-                "value": "10"
-              },
-              {
-                "name": "Rawo",
-                "value": "10"
-              },
-              {
-                "name": "Coriander (Dry)",
-                "value": "10"
-              },
-              {
-                "name": "Turmeric",
-                "value": "10"
-              },
-              {
-                "name": "Dried Ginger",
-                "value": "8"
-              },
-              {
-                "name": "Black Pepper",
-                "value": "8"
-              },
-              {
-                "name": "Dry Chilly",
-                "value": "7"
-              }
+              { "name": "Wheat", "value": "10" },
+              { "name": "Juwar", "value": "8" },
+              { "name": "Millet", "value": "8" },
+              { "name": "Rice", "value": "10" },
+              { "name": "Chana (Dry)", "value": "10" },
+              { "name": "Adad", "value": "10" },
+              { "name": "Mag", "value": "10" },
+              { "name": "Rawo", "value": "10" },
+              { "name": "Coriander (Dry)", "value": "10" },
+              { "name": "Turmeric", "value": "10" },
+              { "name": "Dried Ginger", "value": "8" },
+              { "name": "Black Pepper", "value": "8" },
+              { "name": "Dry Chilly", "value": "7" }
             ]
           }
-        ],
-        "table_Top_6_Round_1_25HP_1440RPM_230V": [
-          {
-            "name": "Name",
-            "value": "6\" Table Top Round"
-          },
-          {
-            "name": "Stone Size",
-            "value": "6\" (150 mm x 20 mm)"
-          },
-          {
-            "name": "Weight",
-            "value": "Approx. 30 kgs"
-          },
-          {
-            "name": "Size (H x B x L)",
-            "value": "57 x 20 x 25 cm"
-          },
-          {
-            "name": "Electric Motor Capacity",
-            "value": "1.25 HP 230 Volt 1440 RPM"
-          },
-          {
-            "name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "table_Top_6_Round_1_25HP_1440RPM_230V": {
+          "name": { "name": "Name", "value": "6\" Table Top Round" },
+          "grindingStone": { "name": "Grinding Stone", "value": "6\" (150 mm x 20 mm)" },
+          "weight": { "name": "Weight", "value": "Approx. 30 kgs" },
+          "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 20 x 25 cm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.25 HP 230 Volt 1440 RPM" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {
-                "name": "Wheat",
-                "value": "10"
-              },
-              {
-                "name": "Juwar",
-                "value": "8"
-              },
-              {
-                "name": "Millet",
-                "value": "8"
-              },
-              {
-                "name": "Rice",
-                "value": "10"
-              },
-              {
-                "name": "Chana (Dry)",
-                "value": "10"
-              },
-              {
-                "name": "Adad",
-                "value": "10"
-              },
-              {
-                "name": "Mag",
-                "value": "10"
-              },
-              {
-                "name": "Rawo",
-                "value": "10"
-              },
-              {
-                "name": "Coriander (Dry)",
-                "value": "10"
-              },
-              {
-                "name": "Turmeric",
-                "value": "10"
-              },
-              {
-                "name": "Dried Ginger",
-                "value": "8"
-              },
-              {
-                "name": "Black Pepper",
-                "value": "8"
-              },
-              {
-                "name": "Dry Chilly",
-                "value": "7"
-              }
+              { "name": "Wheat", "value": "10" },
+              { "name": "Juwar", "value": "8" },
+              { "name": "Millet", "value": "8" },
+              { "name": "Rice", "value": "10" },
+              { "name": "Chana (Dry)", "value": "10" },
+              { "name": "Adad", "value": "10" },
+              { "name": "Mag", "value": "10" },
+              { "name": "Rawo", "value": "10" },
+              { "name": "Coriander (Dry)", "value": "10" },
+              { "name": "Turmeric", "value": "10" },
+              { "name": "Dried Ginger", "value": "8" },
+              { "name": "Black Pepper", "value": "8" },
+              { "name": "Dry Chilly", "value": "7" }
             ]
           }
-        ],
-        "table_Top_6_Square_1_25HP_960RPM_230V": [
-          {
-            "name": "Name",
-            "value": "6\" Table Top Square"
-          },
-          {
-            "name": "Stone Size",
-            "value": "6\" (150 mm x 20 mm)"
-          },
-          {
-            "name": "Weight",
-            "value": "Approx. 30 kgs"
-          },
-          {
-            "name": "Size (H x B x L)",
-            "value": "57 x 20 x 25 cm"
-          },
-          {
-            "name": "Electric Motor Capacity",
-            "value": "1.25 HP 230 Volt 960 RPM"
-          },
-          {
-            "name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "table_Top_6_Square_1_25HP_960RPM_230V": {
+          "name": { "name": "Name", "value": "6\" Table Top Square" },
+          "grindingStone": { "name": "Grinding Stone", "value": "6\" (150 mm x 20 mm)" },
+          "weight": { "name": "Weight", "value": "Approx. 30 kgs" },
+          "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 20 x 25 cm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.25 HP 230 Volt 960 RPM" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {
-                "name": "Wheat",
-                "value": "10"
-              },
-              {
-                "name": "Juwar",
-                "value": "8"
-              },
-              {
-                "name": "Millet",
-                "value": "8"
-              },
-              {
-                "name": "Rice",
-                "value": "10"
-              },
-              {
-                "name": "Chana (Dry)",
-                "value": "10"
-              },
-              {
-                "name": "Adad",
-                "value": "10"
-              },
-              {
-                "name": "Mag",
-                "value": "10"
-              },
-              {
-                "name": "Rawo",
-                "value": "10"
-              },
-              {
-                "name": "Coriander (Dry)",
-                "value": "10"
-              },
-              {
-                "name": "Turmeric",
-                "value": "10"
-              },
-              {
-                "name": "Dried Ginger",
-                "value": "8"
-              },
-              {
-                "name": "Black Pepper",
-                "value": "8"
-              },
-              {
-                "name": "Dry Chilly",
-                "value": "7"
-              }
+              { "name": "Wheat", "value": "10" },
+              { "name": "Juwar", "value": "8" },
+              { "name": "Millet", "value": "8" },
+              { "name": "Rice", "value": "10" },
+              { "name": "Chana (Dry)", "value": "10" },
+              { "name": "Adad", "value": "10" },
+              { "name": "Mag", "value": "10" },
+              { "name": "Rawo", "value": "10" },
+              { "name": "Coriander (Dry)", "value": "10" },
+              { "name": "Turmeric", "value": "10" },
+              { "name": "Dried Ginger", "value": "8" },
+              { "name": "Black Pepper", "value": "8" },
+              { "name": "Dry Chilly", "value": "7" }
             ]
           }
-        ],
-        "table_Top_6_Square_1_25HP_1440RPM_230V": [
-          {
-            "name": "Name",
-            "value": "6\" Table Top Square"
-          },
-          {
-            "name": "Stone Size",
-            "value": "6\" (150 mm x 20 mm)"
-          },
-          {
-            "name": "Weight",
-            "value": "Approx. 30 kgs"
-          },
-          {
-            "name": "Size (H x B x L)",
-            "value": "57 x 20 x 25 cm"
-          },
-          {
-            "name": "Electric Motor Capacity",
-            "value": "1.25 HP 230 Volt 1440 RPM"
-          },
-          {
-            "name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "table_Top_6_Square_1_25HP_1440RPM_230V": {
+          "name": { "name": "Name", "value": "6\" Table Top Square" },
+          "grindingStone": { "name": "Grinding Stone", "value": "6\" (150 mm x 20 mm)" },
+          "weight": { "name": "Weight", "value": "Approx. 30 kgs" },
+          "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 20 x 25 cm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.25 HP 230 Volt 1440 RPM" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {
-                "name": "Wheat",
-                "value": "10"
-              },
-              {
-                "name": "Juwar",
-                "value": "8"
-              },
-              {
-                "name": "Millet",
-                "value": "8"
-              },
-              {
-                "name": "Rice",
-                "value": "10"
-              },
-              {
-                "name": "Chana (Dry)",
-                "value": "10"
-              },
-              {
-                "name": "Adad",
-                "value": "10"
-              },
-              {
-                "name": "Mag",
-                "value": "10"
-              },
-              {
-                "name": "Rawo",
-                "value": "10"
-              },
-              {
-                "name": "Coriander (Dry)",
-                "value": "10"
-              },
-              {
-                "name": "Turmeric",
-                "value": "10"
-              },
-              {
-                "name": "Dried Ginger",
-                "value": "8"
-              },
-              {
-                "name": "Black Pepper",
-                "value": "8"
-              },
-              {
-                "name": "Dry Chilly",
-                "value": "7"
-              }
+              { "name": "Wheat", "value": "10" },
+              { "name": "Juwar", "value": "8" },
+              { "name": "Millet", "value": "8" },
+              { "name": "Rice", "value": "10" },
+              { "name": "Chana (Dry)", "value": "10" },
+              { "name": "Adad", "value": "10" },
+              { "name": "Mag", "value": "10" },
+              { "name": "Rawo", "value": "10" },
+              { "name": "Coriander (Dry)", "value": "10" },
+              { "name": "Turmeric", "value": "10" },
+              { "name": "Dried Ginger", "value": "8" },
+              { "name": "Black Pepper", "value": "8" },
+              { "name": "Dry Chilly", "value": "7" }
             ]
           }
-        ],
-        "table_Top_7_Round_1_5HP_960RPM_230V": [
-          {
-            "name": "Name",
-            "value": "7\" Table Top Round"
-          },
-          {
-            "name": "Stone Size",
-            "value": "7\" (180 mm x 20 mm)"
-          },
-          {
-            "name": "Weight",
-            "value": "Approx. 37 kgs"
-          },
-          {
-            "name": "Size (H x B x L)",
-            "value": "57 x 22.5 x 27.5 cm"
-          },
-          {
-            "name": "Electric Motor Capacity",
-            "value": "1.5 HP 230 Volt 960 RPM"
-          },
-          {
-            "name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "table_Top_7_Round_1_5HP_960RPM_230V": {
+          "name": { "name": "Name", "value": "7\" Table Top Round" },
+          "grindingStone": { "name": "Grinding Stone", "value": "7\" (180 mm x 20 mm)" },
+          "weight": { "name": "Weight", "value": "Approx. 37 kgs" },
+          "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 22.5 x 27.5 cm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.5 HP 230 Volt 960 RPM" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {
-                "name": "Wheat",
-                "value": "14"
-              },
-              {
-                "name": "Juwar",
-                "value": "12"
-              },
-              {
-                "name": "Millet",
-                "value": "12"
-              },
-              {
-                "name": "Rice",
-                "value": "14"
-              },
-              {
-                "name": "Chana (Dry)",
-                "value": "14"
-              },
-              {
-                "name": "Adad",
-                "value": "14"
-              },
-              {
-                "name": "Mag",
-                "value": "14"
-              },
-              {
-                "name": "Rawo",
-                "value": "14"
-              },
-              {
-                "name": "Coriander (Dry)",
-                "value": "14"
-              },
-              {
-                "name": "Turmeric",
-                "value": "14"
-              },
-              {
-                "name": "Dried Ginger",
-                "value": "12"
-              },
-              {
-                "name": "Black Pepper",
-                "value": "12"
-              },
-              {
-                "name": "Dry Chilly",
-                "value": "11"
-              }
+              { "name": "Wheat", "value": "14" },
+              { "name": "Juwar", "value": "12" },
+              { "name": "Millet", "value": "12" },
+              { "name": "Rice", "value": "14" },
+              { "name": "Chana (Dry)", "value": "14" },
+              { "name": "Adad", "value": "14" },
+              { "name": "Mag", "value": "14" },
+              { "name": "Rawo", "value": "14" },
+              { "name": "Coriander (Dry)", "value": "14" },
+              { "name": "Turmeric", "value": "14" },
+              { "name": "Dried Ginger", "value": "12" },
+              { "name": "Black Pepper", "value": "12" },
+              { "name": "Dry Chilly", "value": "11" }
             ]
           }
-        ],
-        "table_Top_7_Round_1_5HP_1440RPM_230V": [
-          {
-            "name": "Name",
-            "value": "7\" Table Top Round"
-          },
-          {
-            "name": "Stone Size",
-            "value": "7\" (180 mm x 20 mm)"
-          },
-          {
-            "name": "Weight",
-            "value": "Approx. 37 kgs"
-          },
-          {
-            "name": "Size (H x B x L)",
-            "value": "57 x 22.5 x 27.5 cm"
-          },
-          {
-            "name": "Electric Motor Capacity",
-            "value": "1.5 HP 230 Volt 1440 RPM"
-          },
-          {
-            "name": "Grinding Average (kgs per Hour Approx.)",
+        },
+        "table_Top_7_Square_1_5HP_960RPM_230V": {
+          "name": { "name": "Name", "value": "7\" Table Top Square" },
+          "grindingStone": { "name": "Grinding Stone", "value": "7\" (180 mm x 20 mm)" },
+          "weight": { "name": "Weight", "value": "Approx. 37 kgs" },
+          "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 22.5 x 27.5 cm" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.5 HP 230 Volt 960 RPM" },
+          "grindingCapacity": { "name": "Grinding Average (kgs per hour approx.)",
             "value": [
-              {
-                "name": "Wheat",
-                "value": "14"
-              },
-              {
-                "name": "Juwar",
-                "value": "12"
-              },
-              {
-                "name": "Millet",
-                "value": "12"
-              },
-              {
-                "name": "Rice",
-                "value": "14"
-              },
-              {
-                "name": "Chana (Dry)",
-                "value": "14"
-              },
-              {
-                "name": "Adad",
-                "value": "14"
-              },
-              {
-                "name": "Mag",
-                "value": "14"
-              },
-              {
-                "name": "Rawo",
-                "value": "14"
-              },
-              {
-                "name": "Coriander (Dry)",
-                "value": "14"
-              },
-              {
-                "name": "Turmeric",
-                "value": "14"
-              },
-              {
-                "name": "Dried Ginger",
-                "value": "12"
-              },
-              {
-                "name": "Black Pepper",
-                "value": "12"
-              },
-              {
-                "name": "Dry Chilly",
-                "value": "11"
-              }
+              { "name": "Wheat", "value": "14" },
+              { "name": "Juwar", "value": "12" },
+              { "name": "Millet", "value": "12" },
+              { "name": "Rice", "value": "14" },
+              { "name": "Chana (Dry)", "value": "14" },
+              { "name": "Adad", "value": "14" },
+              { "name": "Mag", "value": "14" },
+              { "name": "Rawo", "value": "14" },
+              { "name": "Coriander (Dry)", "value": "14" },
+              { "name": "Turmeric", "value": "14" },
+              { "name": "Dried Ginger", "value": "12" },
+              { "name": "Black Pepper", "value": "12" },
+              { "name": "Dry Chilly", "value": "11" }
             ]
           }
-        ],
-        "table_Top_7_Square_1_5HP_960RPM_230V": [
-          {
-            "name": "Name",
-            "value": "7\" Table Top Square"
-          },
-          {
-            "name": "Stone Size",
-            "value": "7\" (180 mm x 20 mm)"
-          },
-          {
-            "name": "Weight",
-            "value": "Approx. 37 kgs"
-          },
-          {
-            "name": "Size (H x B x L)",
-            "value": "57 x 22.5 x 27.5 cm"
-          },
-          {
-            "name": "Electric Motor Capacity",
-            "value": "1.5 HP 230 Volt 960 RPM"
-          },
-          {
-            "name": "Grinding Average (kgs per Hour Approx.)",
-            "value": [
-              {
-                "name": "Wheat",
-                "value": "14"
-              },
-              {
-                "name": "Juwar",
-                "value": "12"
-              },
-              {
-                "name": "Millet",
-                "value": "12"
-              },
-              {
-                "name": "Rice",
-                "value": "14"
-              },
-              {
-                "name": "Chana (Dry)",
-                "value": "14"
-              },
-              {
-                "name": "Adad",
-                "value": "14"
-              },
-              {
-                "name": "Mag",
-                "value": "14"
-              },
-              {
-                "name": "Rawo",
-                "value": "14"
-              },
-              {
-                "name": "Coriander (Dry)",
-                "value": "14"
-              },
-              {
-                "name": "Turmeric",
-                "value": "14"
-              },
-              {
-                "name": "Dried Ginger",
-                "value": "12"
-              },
-              {
-                "name": "Black Pepper",
-                "value": "12"
-              },
-              {
-                "name": "Dry Chilly",
-                "value": "11"
-              }
-            ]
-          }
-        ],
-        "table_Top_7_Square_1_5HP_1440RPM_230V": [
-          {
-            "name": "Name",
-            "value": "7\" Table Top Square"
-          },
-          {
-            "name": "Stone Size",
-            "value": "7\" (180 mm x 20 mm)"
-          },
-          {
-            "name": "Weight",
-            "value": "Approx. 37 kgs"
-          },
-          {
-            "name": "Size (H x B x L)",
-            "value": "57 x 22.5 x 27.5 cm"
-          },
-          {
-            "name": "Electric Motor Capacity",
-            "value": "1.5 HP 230 Volt 1440 RPM"
-          },
-          {
-            "name": "Grinding Average (kgs per Hour Approx.)",
-            "value": [
-              {
-                "name": "Wheat",
-                "value": "14"
-              },
-              {
-                "name": "Juwar",
-                "value": "12"
-              },
-              {
-                "name": "Millet",
-                "value": "12"
-              },
-              {
-                "name": "Rice",
-                "value": "14"
-              },
-              {
-                "name": "Chana (Dry)",
-                "value": "14"
-              },
-              {
-                "name": "Adad",
-                "value": "14"
-              },
-              {
-                "name": "Mag",
-                "value": "14"
-              },
-              {
-                "name": "Rawo",
-                "value": "14"
-              },
-              {
-                "name": "Coriander (Dry)",
-                "value": "14"
-              },
-              {
-                "name": "Turmeric",
-                "value": "14"
-              },
-              {
-                "name": "Dried Ginger",
-                "value": "12"
-              },
-              {
-                "name": "Black Pepper",
-                "value": "12"
-              },
-              {
-                "name": "Dry Chilly",
-                "value": "11"
-              }
-            ]
-          }
-        ]
+        }
       }
     },
     "stoneless": {
@@ -1481,36 +991,38 @@
         "stoneless_fully_auto_1HP_2800RPM"
       ],
       "data": {
-        "stoneless_fully_auto_1HP_2800RPM": [
-          {
-            "name": "Name",
-            "value": "Fully Auto Stoneless Flourmill"
-          },
-          {
-            "name": "Electric Motor Capacity",
-            "value": "1 HP 750 W 2800 RPM Clutchless Single Phase"
-          },
-          {
-            "name": "Power Supply",
-            "value": "210 V 50 Hz"
-          },
-          {
-            "name": "Electric Consumption",
-            "value": "0.75 Unit Per Hour (Approx.)"
-          },
-          {
-            "name": "Weight",
-            "value": "50 kgs (Approx.)"
-          },
-          {
-            "name": "Size (H x B x L)",
-            "value": "89 x 33 x 50 cm"
-          },
-          {
-            "name": "Grinding Average (kgs per Hour Approx.)",
-            "value": []
+        "stoneless_fully_auto_1HP_2800RPM": {
+          "name": { "name": "Name", "value": "Fully Auto Stoneless Flourmill" },
+          "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1 HP 750 W 2800 RPM Clutchless Single Phase" },
+          "powerSupply": { "name": "Power Supply", "value": "210 V 50 Hz" },
+          "electricConsumption": { "name": "Electric Consumption", "value": "0.75 Unit Per Hour (Approx.)" },
+          "weight": { "name": "Weight", "value": "50 kgs (Approx.)" },
+          "machineSize": { "name": "Machine Size (H x B x L)", "value": "89 x 33 x 50 cm" },
+          "grindingCapacity": { "name": "Grinding Capacity (kgs per hour approx.)", 
+            "value": [
+              { "name": "Wheat", "value": "7 - 10" },
+              { "name": "Rawo", "value": "30" },
+              { "name": "Besan", "value": "22" },
+              { "name": "Black Chana", "value": "25" },
+              { "name": "Green Chana", "value": "20" },
+              { "name": "Rice", "value": "16" },
+              { "name": "Millet", "value": "5" },
+              { "name": "Corn", "value": "5" },
+              { "name": "Sugar", "value": "40" },
+              { "name": "Herb", "value": "18" },
+              { "name": "Coriander", "value": "10" },
+              { "name": "Black Pepper", "value": "12" },
+              { "name": "Red Chilly", "value": "20" },
+              { "name": "Turmeric", "value": "6" },
+              { "name": "Coffee", "value": "5" },
+              { "name": "Mehndi", "value": "8" },
+              { "name": "Ambla", "value": "12" },
+              { "name": "Mag", "value": "20" },
+              { "name": "Adad", "value": "25" },
+              { "name": "Salt", "value": "30" }
+            ]
           }
-        ]
+        }
       }
     }
   }
