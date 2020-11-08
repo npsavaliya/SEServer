@@ -12,11 +12,12 @@
         "flourmill_14_Regular",
         "flourmill_14_TP",
         "flourmill_14_Bracket",
-        "flourmill_15 TP",
+        "flourmill_15_TP",
         "flourmill_15_Bracket"
       ],
-      "data": {
-        "flourmill_8_Regular": {
+      "data": [
+        {
+          "id": "flourmill_8_Regular",
           "name": { "name": "Name", "value": "8\" Regular" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "44 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1 HP 1440 RPM I-Phase" },
@@ -26,7 +27,9 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6205 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "12 to 20 kgs" }
         },
-        "flourmill_8_Jain": { "name": { "name": "Name", "value": "8\" Jain" },
+        { 
+          "id": "flourmill_8_Jain",
+          "name": { "name": "Name", "value": "8\" Jain" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "44 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1 HP 1440 RPM I-Phase" },
           "powerConsumption": { "name": "Power Consumption Per Hour", "value": "0.75 Unit" },
@@ -35,7 +38,8 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6205 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "12 to 20 kgs" }
         },
-        "flourmill_10_Regular": {
+        {
+          "id": "flourmill_10_Regular",
           "name": { "name": "Name", "value": "10\" Regular" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "50 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.5 HP 1440 RPM I-Phase" },
@@ -45,7 +49,8 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6205 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "18 to 25 kgs" }
         },
-        "flourmill_10_Jain": {
+        {
+          "id": "flourmill_10_Jain",
           "name": { "name": "Name", "value": "10\" Jain" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "50 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.5 HP 1440 RPM I-Phase" },
@@ -55,7 +60,8 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6205 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "18 to 25 kgs" }
         },
-        "flourmill_12_Regular": {
+        {
+          "id": "flourmill_12_Regular",
           "name": { "name": "Name", "value": "12\" Regular" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "2 HP 1440 RPM I-Phase" },
@@ -65,7 +71,8 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6206 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "30 to 45 kgs" }
         },
-        "flourmill_12_TP": {
+        {
+          "id": "flourmill_12_TP",
           "name": { "name": "Name", "value": "12\" TP" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "2 HP 1440 RPM I-Phase" },
@@ -75,7 +82,8 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6206 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "30 to 45 kgs" }
         },
-        "flourmill_12_Bracket": {
+        {
+          "id": "flourmill_12_Bracket",
           "name": { "name": "Name", "value": "12\" Bracket" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "2 HP 1440 RPM I-Phase" },
@@ -85,7 +93,8 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6206 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "30 to 45 kgs" }
         },
-        "flourmill_14_Regular": {
+        {
+          "id": "flourmill_14_Regular",
           "name": { "name": "Name", "value": "14\" Regular" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "3 HP 1440 RPM I-Phase" },
@@ -95,7 +104,8 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6207 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "35 to 50 kgs" }
         },
-        "flourmill_14_TP": {
+        {
+          "id": "flourmill_14_TP",
           "name": { "name": "Name", "value": "14\" TP" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "3 HP 1440 RPM I-Phase" },
@@ -105,7 +115,8 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6207 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "35 to 50 kgs" }
         },
-        "flourmill_14_Bracket": {
+        {
+          "id": "flourmill_14_Bracket",
           "name": { "name": "Name", "value": "14\" Bracket" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "3 HP 1440 RPM I-Phase" },
@@ -115,7 +126,8 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6207 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "35 to 50 kgs" }
         },
-        "flourmill_15 TP": {
+        {
+          "id": "flourmill_15_TP",
           "name": { "name": "Name", "value": "15\" Regular" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "4 HP 1440 RPM I-Phase" },
@@ -125,7 +137,8 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6207 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "45 to 70 kgs" }
         },
-        "flourmill_15_Bracket": {
+        {
+          "id": "flourmill_15_Bracket",
           "name": { "name": "Name", "value": "15\" Regular" },
           "grindingStone": { "name": "Grinding Stone Thickness", "value": "75 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "4 HP 1440 RPM I-Phase" },
@@ -135,7 +148,7 @@
           "bearingSize": { "name": "Ball Bearing", "value": "6207 Z" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "45 to 70 kgs" }
         }
-      }
+      ]
     },
     "flourmill_With_Large_Range_Stone": {
       "models": [
@@ -145,8 +158,9 @@
         "flourmill_18x4_5_Bracket_Trolley_45cm_7_5HP_1440RPM_I_Phase",
         "flourmill_18x4_5_Bracket_Trolley_45cm_10HP_1440RPM_III_Phase"
       ],
-      "data": {
-        "flourmill_16x3_Bracket_Trolley_40cm_5HP_1440RPM_I_Phase": {
+      "data": [
+        {
+          "id": "flourmill_16x3_Bracket_Trolley_40cm_5HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" Bracket Trolley with 5 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 1440 RPM I-Phase" },
@@ -158,7 +172,8 @@
           "shaftKeySlotSize": { "name": "Shaft - Key Slot", "value": "12 mm x 6.5 mm x 7.5\"" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "60 to 90 kgs" }
         },
-        "flourmill_16x3_Bracket_Trolley_40cm_6HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x3_Bracket_Trolley_40cm_6HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" Bracket Trolley with 6 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
@@ -170,7 +185,8 @@
           "shaftKeySlotSize": { "name": "Shaft - Key Slot", "value": "12 mm x 6.5 mm x 7.5\"" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
         },
-        "flourmill_16x3_Bracket_Trolley_40cm_5HP_A_Class_III_Phase": {
+        {
+          "id": "flourmill_16x3_Bracket_Trolley_40cm_5HP_A_Class_III_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" Bracket Trolley with 5 HP A-Class III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP A-Class 1440 RPM III-Phase" },
@@ -182,7 +198,8 @@
           "shaftKeySlotSize": { "name": "Shaft - Key Slot", "value": "12 mm x 6.5 mm x 7.5\"" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "100 to 120 kgs" }
         },
-        "flourmill_18x4_5_Bracket_Trolley_45cm_7_5HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_18x4_5_Bracket_Trolley_45cm_7_5HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "18\" x 4.5\" Bracket Trolley with 7.5 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM I-Phase" },
@@ -194,7 +211,8 @@
           "shaftKeySlotSize": { "name": "Shaft - Key Slot", "value": "12 mm x 6.5 mm x 7.5\"" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "90 to 130 kgs" }
         },
-        "flourmill_18x4_5_Bracket_Trolley_45cm_10HP_1440RPM_III_Phase": {
+        {
+          "id": "flourmill_18x4_5_Bracket_Trolley_45cm_10HP_1440RPM_III_Phase",
           "name": { "name": "Name", "value": "18\" x 4.5\" Bracket Trolley with 10 HP 1440 RPM III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 1440 RPM III-Phase" },
@@ -206,7 +224,7 @@
           "shaftKeySlotSize": { "name": "Shaft - Key Slot", "value": "12 mm x 6.5 mm x 7.5\"" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "130 to 160 kgs" }
         }
-      }
+      ]
     },
     "flourmill_DSP_DSSP": {
       "models": [
@@ -239,8 +257,9 @@
         "flourmill_18x4_5_DSSP_Trolley_45cm_7_5HP_1440RPM_I_Phase",
         "flourmill_18x4_5_DSSP_Trolley_45cm_10HP_1440RPM_III_Phase"
       ],
-      "data": {
-        "flourmill_16x3_DSP_40cm_5HP_1440RPM_I_Phase": {
+      "data": [
+        {
+          "id": "flourmill_16x3_DSP_40cm_5HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSP with 5 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 1440 RPM I-Phase" },
@@ -250,7 +269,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "60 to 90 kgs" }
         },
-        "flourmill_16x3_DSP_40cm_6HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x3_DSP_40cm_6HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSP with 6 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
@@ -260,7 +280,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
         },
-        "flourmill_16x3_DSP_40cm_5HP_A_Class_III_Phase": {
+        {
+          "id": "flourmill_16x3_DSP_40cm_5HP_A_Class_III_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSP with 5 HP A-Class III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP A-Class 1440 RPM III-Phase" },
@@ -270,7 +291,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "100 to 120 kgs" }
         },
-        "flourmill_16x3_DSSP_40cm_5HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x3_DSSP_40cm_5HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSSP with 5 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 1440 RPM I-Phase" },
@@ -280,7 +302,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "60 to 90 kgs" }
         },
-        "flourmill_16x3_DSSP_40cm_6HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x3_DSSP_40cm_6HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSSP with 6 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
@@ -290,7 +313,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
         },
-        "flourmill_16x3_DSSP_40cm_5HP_A_Class_III_Phase": {
+        {
+          "id": "flourmill_16x3_DSSP_40cm_5HP_A_Class_III_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSSP with 5 HP A-Class III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP A-Class 1440 RPM III-Phase" },
@@ -300,7 +324,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "100 to 120 kgs" }
         },
-        "flourmill_16x4_5_DSP_40cm_6HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x4_5_DSP_40cm_6HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 4.5\" DSP with 6 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
@@ -310,7 +335,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
         },
-        "flourmill_16x4_5_DSP_40cm_7_5HP_1440RPM_III_Phase": {
+        {
+          "id": "flourmill_16x4_5_DSP_40cm_7_5HP_1440RPM_III_Phase",
           "name": { "name": "Name", "value": "16\" x 4.5\" DSP with 7.5 HP 1440 RPM III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM III-Phase" },
@@ -320,7 +346,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "110 to 130 kgs" }
         },
-        "flourmill_16x4_5_DSSP_40cm_6HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x4_5_DSSP_40cm_6HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 4.5\" DSSP with 6 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
@@ -330,7 +357,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
         },
-        "flourmill_16x4_5_DSSP_40cm_7_5HP_1440RPM_III_Phase": {
+        {
+          "id": "flourmill_16x4_5_DSSP_40cm_7_5HP_1440RPM_III_Phase",
           "name": { "name": "Name", "value": "16\" x 4.5\" DSSP with 7.5 HP 1440 RPM III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM III-Phase" },
@@ -340,7 +368,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "110 to 130 kgs" }
         },
-        "flourmill_18x4_5_DSP_45cm_7_5HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_18x4_5_DSP_45cm_7_5HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "18\" x 4.5\" DSP with 7.5 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM I-Phase" },
@@ -350,7 +379,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "90 to 130 kgs" }
         },
-        "flourmill_18x4_5_DSP_45cm_10HP_1440RPM_III_Phase": {
+        {
+          "id": "flourmill_18x4_5_DSP_45cm_10HP_1440RPM_III_Phase",
           "name": { "name": "Name", "value": "18\" x 4.5\" DSP with 10 HP 1440 RPM III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 1440 RPM III-Phase" },
@@ -360,7 +390,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "130 to 160 kgs" }
         },
-        "flourmill_18x4_5_DSSP_45cm_7_5HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_18x4_5_DSSP_45cm_7_5HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "18\" x 4.5\" DSSP with 7.5 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM I-Phase" },
@@ -370,7 +401,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "90 to 130 kgs" }
         },
-        "flourmill_18x4_5_DSSP_45cm_10HP_1440RPM_III_Phase": {
+        {
+          "id": "flourmill_18x4_5_DSSP_45cm_10HP_1440RPM_III_Phase",
           "name": { "name": "Name", "value": "18\" x 4.5\" DSSP with 10 HP 1440 RPM III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 1440 RPM III-Phase" },
@@ -380,7 +412,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "130 to 160 kgs" }
         },
-        "flourmill_16x3_DSP_Trolley_40cm_5HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x3_DSP_Trolley_40cm_5HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSP Trolley with 5 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 1440 RPM I-Phase" },
@@ -390,7 +423,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "60 to 90 kgs" }
         },
-        "flourmill_16x3_DSP_Trolley_40cm_6HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x3_DSP_Trolley_40cm_6HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSP Trolley with 6 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
@@ -400,7 +434,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
         },
-        "flourmill_16x3_DSP_Trolley_40cm_5HP_A_Class_III_Phase": {
+        {
+          "id": "flourmill_16x3_DSP_Trolley_40cm_5HP_A_Class_III_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSP Trolley with 5 HP A-Class III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP A-Class 1440 RPM III-Phase" },
@@ -410,7 +445,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "100 to 120 kgs" }
         },
-        "flourmill_16x3_DSSP_Trolley_40cm_5HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x3_DSSP_Trolley_40cm_5HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSSP Trolley with 5 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 1440 RPM I-Phase" },
@@ -420,7 +456,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "60 to 90 kgs" }
         },
-        "flourmill_16x3_DSSP_Trolley_40cm_6HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x3_DSSP_Trolley_40cm_6HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSSP Trolley with 6 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
@@ -430,7 +467,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
         },
-        "flourmill_16x3_DSSP_Trolley_40cm_5HP_A_Class_III_Phase": {
+        {
+          "id": "flourmill_16x3_DSSP_Trolley_40cm_5HP_A_Class_III_Phase",
           "name": { "name": "Name", "value": "16\" x 3\" DSSP Trolley with 5 HP A-Class III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 3\" x 3\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP A-Class 1440 RPM III-Phase" },
@@ -440,7 +478,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "36\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "100 to 120 kgs" }
         },
-        "flourmill_16x4_5_DSP_Trolley_40cm_6HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x4_5_DSP_Trolley_40cm_6HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 4.5\" DSP Trolley with 6 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
@@ -450,7 +489,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
         },
-        "flourmill_16x4_5_DSP_Trolley_40cm_7_5HP_1440RPM_III_Phase": {
+        {
+          "id": "flourmill_16x4_5_DSP_Trolley_40cm_7_5HP_1440RPM_III_Phase",
           "name": { "name": "Name", "value": "16\" x 4.5\" DSP Trolley with 7.5 HP 1440 RPM III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM III-Phase" },
@@ -460,7 +500,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "110 to 130 kgs" }
         },
-        "flourmill_16x4_5_DSSP_Trolley_40cm_6HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_16x4_5_DSSP_Trolley_40cm_6HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "16\" x 4.5\" DSSP Trolley with 6 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "6 HP 1440 RPM I-Phase" },
@@ -470,8 +511,9 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "70 to 105 kgs" }
         },
-        "flourmill_16x4_5_DSSP_Trolley_40cm_7_5HP_1440RPM_III_Phase": {
-          "name": { "name": "Name", "value": "16\" x 4.5\" DSP Trolley with 7.5 HP 1440 RPM III-Phase Elec. Motor" },
+        {
+          "id": "flourmill_16x4_5_DSSP_Trolley_40cm_7_5HP_1440RPM_III_Phase",
+          "name": { "name": "Name", "value": "16\" x 4.5\" DSSP Trolley with 7.5 HP 1440 RPM III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "16\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM III-Phase" },
           "flourmillPulleySize": { "name": "Flourmill Pulley", "value": "10\" x 2C x 40 mm" },
@@ -480,7 +522,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "110 to 130 kgs" }
         },
-        "flourmill_18x4_5_DSP_Trolley_45cm_7_5HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_18x4_5_DSP_Trolley_45cm_7_5HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "18\" x 4.5\" DSP Trolley with 7.5 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM I-Phase" },
@@ -490,7 +533,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "90 to 130 kgs" }
         },
-        "flourmill_18x4_5_DSP_Trolley_45cm_10HP_1440RPM_III_Phase": {
+        {
+          "id": "flourmill_18x4_5_DSP_Trolley_45cm_10HP_1440RPM_III_Phase",
           "name": { "name": "Name", "value": "18\" x 4.5\" DSP Trolley with 10 HP 1440 RPM III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 1440 RPM III-Phase" },
@@ -500,7 +544,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "130 to 160 kgs" }
         },
-        "flourmill_18x4_5_DSSP_Trolley_45cm_7_5HP_1440RPM_I_Phase": {
+        {
+          "id": "flourmill_18x4_5_DSSP_Trolley_45cm_7_5HP_1440RPM_I_Phase",
           "name": { "name": "Name", "value": "18\" x 4.5\" DSSP Trolley with 7.5 HP 1440 RPM I-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 1440 RPM I-Phase" },
@@ -510,7 +555,8 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "90 to 130 kgs" }
         },
-        "flourmill_18x4_5_DSSP_Trolley_45cm_10HP_1440RPM_III_Phase": {
+        {
+          "id": "flourmill_18x4_5_DSSP_Trolley_45cm_10HP_1440RPM_III_Phase",
           "name": { "name": "Name", "value": "18\" x 4.5\" DSSP Trolley with 10 HP 1440 RPM III-Phase Elec. Motor" },
           "grindingStone": { "name": "Grinding Stone", "value": "18\" x 4.5\" x 4.5\" x 40 mm" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 1440 RPM III-Phase" },
@@ -520,7 +566,7 @@
           "shaftSize": { "name": "Shaft Size", "value": "39\" x 40 mm" },
           "grindingCapacity": { "name": "Grinding Capacity Per Hour (on 230 v)", "value": "130 to 160 kgs" }
         }
-      }
+      ]
     },
     "pulverizer": {
       "models": [
@@ -537,8 +583,9 @@
         "pulverizer_10HP_2800RPM_I_Phase",
         "pulverizer_10HP_2800RPM_III_Phase"
       ],
-      "data": {
-        "pulverizer_1_5HP_2800RPM_I_Phase": {
+      "data": [
+        {
+          "id": "pulverizer_1_5HP_2800RPM_I_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 1.5 HP I-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.5 HP 2880 RPM I-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "262 mm x 120 mm" },
@@ -562,7 +609,8 @@
             ]
           }
         },
-        "pulverizer_1_5HP_2800RPM_III_Phase": {
+        {
+          "id": "pulverizer_1_5HP_2800RPM_III_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 1.5 HP III-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1.5 HP 2880 RPM III-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "262 mm x 120 mm" },
@@ -586,7 +634,8 @@
             ]
           }
         },
-        "pulverizer_2HP_2800RPM_I_Phase": {
+        {
+          "id": "pulverizer_2HP_2800RPM_I_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 2 HP I-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "2 HP 2880 RPM I-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "262 mm x 150 mm" },
@@ -610,7 +659,8 @@
             ]
           }
         },
-        "pulverizer_2HP_2800RPM_III_Phase": {
+        {
+          "id": "pulverizer_2HP_2800RPM_III_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 2 HP III-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "2 HP 2880 RPM III-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "262 mm x 150 mm" },
@@ -634,7 +684,8 @@
             ]
           }
         },
-        "pulverizer_3HP_2800RPM_I_Phase": {
+        {
+          "id": "pulverizer_3HP_2800RPM_I_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 3 HP I-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "3 HP 2880 RPM I-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "295 mm x 155 mm" },
@@ -658,7 +709,8 @@
             ]
           }
         },
-        "pulverizer_3HP_2800RPM_III_Phase": {
+        {
+          "id": "pulverizer_3HP_2800RPM_III_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 3 HP III-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "3 HP 2880 RPM III-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "295 mm x 155 mm" },
@@ -682,7 +734,8 @@
             ]
           }
         },
-        "pulverizer_5HP_2800RPM_I_Phase": {
+        {
+          "id": "pulverizer_5HP_2800RPM_I_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 5 HP I-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 2880 RPM I-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "325 mm x 160 mm" },
@@ -706,7 +759,8 @@
             ]
           }
         },
-        "pulverizer_5HP_2800RPM_III_Phase": {
+        {
+          "id": "pulverizer_5HP_2800RPM_III_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 5 HP III-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "5 HP 2880 RPM III-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "325 mm x 160 mm" },
@@ -730,7 +784,8 @@
             ]
           }
         },
-        "pulverizer_7_5HP_2800RPM_I_Phase": {
+        {
+          "id": "pulverizer_7_5HP_2800RPM_I_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 7.5 HP I-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 2880 RPM I-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "375 mm x 195 mm" },
@@ -754,7 +809,8 @@
             ]
           }
         },
-        "pulverizer_7_5HP_2800RPM_III_Phase": {
+        {
+          "id": "pulverizer_7_5HP_2800RPM_III_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 7.5 HP III-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "7.5 HP 2880 RPM III-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "375 mm x 195 mm" },
@@ -778,7 +834,8 @@
             ]
           }
         },
-        "pulverizer_10HP_2800RPM_I_Phase": {
+        {
+          "id": "pulverizer_10HP_2800RPM_I_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 10 HP I-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 2880 RPM I-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "375 mm x 195 mm" },
@@ -802,7 +859,8 @@
             ]
           }
         },
-        "pulverizer_10HP_2800RPM_III_Phase": {
+        {
+          "id": "pulverizer_10HP_2800RPM_III_Phase",
           "name": { "name": "Name", "value": "Pulvarizor 10 HP III-Phase" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "10 HP 2880 RPM III-Phase" },
           "singleChamberSize": { "name": "Single Chamber Size", "value": "375 mm x 195 mm" },
@@ -826,7 +884,7 @@
             ]
           }
         }
-      }
+      ]
     }
   },
   "domestic": {
@@ -839,9 +897,10 @@
         "table_Top_7_Round_1_5HP_960RPM_230V",
         "table_Top_7_Square_1_5HP_960RPM_230V"
       ],
-      "data": {
-        "table_Top_6_Round_1_25HP_960RPM_230V": {
-          "name": { "name": "Name", "value": "6\" Table Top Round" },
+      "data": [
+        {
+          "id": "table_Top_6_Round_1_25HP_960RPM_230V",
+          "name": { "name": "Name", "value": "6\" Table Top Round 1.25 HP 960 RPM" },
           "grindingStone": { "name": "Grinding Stone", "value": "6\" (150 mm x 20 mm)" },
           "weight": { "name": "Weight", "value": "Approx. 30 kgs" },
           "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 20 x 25 cm" },
@@ -864,8 +923,9 @@
             ]
           }
         },
-        "table_Top_6_Round_1_25HP_1440RPM_230V": {
-          "name": { "name": "Name", "value": "6\" Table Top Round" },
+        {
+          "id": "table_Top_6_Round_1_25HP_1440RPM_230V",
+          "name": { "name": "Name", "value": "6\" Table Top Round 1.25 HP 1440 RPM" },
           "grindingStone": { "name": "Grinding Stone", "value": "6\" (150 mm x 20 mm)" },
           "weight": { "name": "Weight", "value": "Approx. 30 kgs" },
           "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 20 x 25 cm" },
@@ -888,8 +948,9 @@
             ]
           }
         },
-        "table_Top_6_Square_1_25HP_960RPM_230V": {
-          "name": { "name": "Name", "value": "6\" Table Top Square" },
+        {
+          "id": "table_Top_6_Square_1_25HP_960RPM_230V",
+          "name": { "name": "Name", "value": "6\" Table Top Square 1.25 HP 960 RPM" },
           "grindingStone": { "name": "Grinding Stone", "value": "6\" (150 mm x 20 mm)" },
           "weight": { "name": "Weight", "value": "Approx. 30 kgs" },
           "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 20 x 25 cm" },
@@ -912,8 +973,9 @@
             ]
           }
         },
-        "table_Top_6_Square_1_25HP_1440RPM_230V": {
-          "name": { "name": "Name", "value": "6\" Table Top Square" },
+        {
+          "id": "table_Top_6_Square_1_25HP_1440RPM_230V",
+          "name": { "name": "Name", "value": "6\" Table Top Square 1.25 HP 1440 RPM" },
           "grindingStone": { "name": "Grinding Stone", "value": "6\" (150 mm x 20 mm)" },
           "weight": { "name": "Weight", "value": "Approx. 30 kgs" },
           "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 20 x 25 cm" },
@@ -936,8 +998,9 @@
             ]
           }
         },
-        "table_Top_7_Round_1_5HP_960RPM_230V": {
-          "name": { "name": "Name", "value": "7\" Table Top Round" },
+        {
+          "id": "table_Top_7_Round_1_5HP_960RPM_230V",
+          "name": { "name": "Name", "value": "7\" Table Top Round 1.5 HP 960 RPM" },
           "grindingStone": { "name": "Grinding Stone", "value": "7\" (180 mm x 20 mm)" },
           "weight": { "name": "Weight", "value": "Approx. 37 kgs" },
           "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 22.5 x 27.5 cm" },
@@ -960,8 +1023,9 @@
             ]
           }
         },
-        "table_Top_7_Square_1_5HP_960RPM_230V": {
-          "name": { "name": "Name", "value": "7\" Table Top Square" },
+        {
+          "id": "table_Top_7_Square_1_5HP_960RPM_230V",
+          "name": { "name": "Name", "value": "7\" Table Top Square 1.5 HP 960 RPM" },
           "grindingStone": { "name": "Grinding Stone", "value": "7\" (180 mm x 20 mm)" },
           "weight": { "name": "Weight", "value": "Approx. 37 kgs" },
           "machineSize": { "name": "Machine Size (H x B x L)", "value": "57 x 22.5 x 27.5 cm" },
@@ -984,14 +1048,15 @@
             ]
           }
         }
-      }
+      ]
     },
     "stoneless": {
       "models": [
         "stoneless_fully_auto_1HP_2800RPM"
       ],
-      "data": {
-        "stoneless_fully_auto_1HP_2800RPM": {
+      "data": [
+        {
+          "id": "stoneless_fully_auto_1HP_2800RPM",
           "name": { "name": "Name", "value": "Fully Auto Stoneless Flourmill" },
           "electricMotorCapacity": { "name": "Electric Motor Capacity", "value": "1 HP 750 W 2800 RPM Clutchless Single Phase" },
           "powerSupply": { "name": "Power Supply", "value": "210 V 50 Hz" },
@@ -1023,7 +1088,7 @@
             ]
           }
         }
-      }
+      ]
     }
   }
 }

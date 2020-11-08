@@ -1,82 +1,151 @@
 const { gql } = require('apollo-server');
 
 const typeDefs = gql`
+  type Flourmills {
+    commercial: Commercial
+    domestic: Domestic
+  }
+
+  type Commercial {
+    flourmill_With_Mid_Range_Stone: Flourmill_With_Mid_Range_Stone
+    flourmill_With_Large_Range_Stone: Flourmill_With_Large_Range_Stone
+    flourmill_DSP_DSSP: Flourmill_DSP_DSSP
+    pulverizer: Pulverizer
+  }
+
+  type Flourmill_With_Mid_Range_Stone {
+    models: [String]
+    data: [Flourmill_With_Mid_Range_Stone_Data]
+  }
+
+  type Data {
+    name: String
+    value: String
+  }
+
+  type Flourmill_With_Mid_Range_Stone_Data {
+    id: String!
+    name: Data
+    grindingStone: Data
+    electricMotorCapacity: Data
+    powerConsumption: Data
+    vBeltSize: Data
+    shaftSize: Data
+    bearingSize: Data
+    grindingCapacity: Data
+  }
+
+  type Flourmill_With_Large_Range_Stone {
+    models: [String]
+    data: [Flourmill_With_Large_Range_Stone_Data]
+  }
+
+  type Flourmill_With_Large_Range_Stone_Data {
+    id: String!
+    name: Data
+    grindingStone: Data
+    electricMotorCapacity: Data
+    pulleySize: Data
+    pulleyKeySize: Data
+    bearingSizeCover: Data
+    bearingSizeBracket: Data
+    shaftSize: Data
+    shaftKeySlotSize: Data
+    grindingCapacity: Data
+  }
+
+  type Flourmill_DSP_DSSP {
+    models: [String]
+    data: [Flourmill_DSP_DSSP_Data]
+  }
+
+  type Flourmill_DSP_DSSP_Data {
+    id: String!
+    name: Data
+    grindingStone: Data
+    electricMotorCapacity: Data
+    flourmillPulleySize: Data
+    motorPulleySize: Data
+    bearingSize: Data
+    shaftSize: Data
+    grindingCapacity: Data
+  }
+
+  type Pulverizer {
+    models: [String]
+    data: [Pulverizer_Data]
+  }
+
+  type Pulverizer_Data {
+    id: String!
+    name: Data
+    electricMotorCapacity: Data
+    singleChamberSize: Data
+    hopperSize: Data
+    weight: Data
+    machineSize: Data
+    grindingCapacity: GrindingCapacityData
+  }
+
+  type GrindingCapacityData {
+    name: String
+    value: [Data]
+  }
+
+  type Domestic {
+    table_Top: Table_Top
+    stoneless: Stoneless
+  }
+
+  type Table_Top {
+    models: [String]
+    data: [Table_Top_Data]
+  }
+
+  type Table_Top_Data {
+    id: String!
+    name: Data
+    grindingStone: Data
+    weight: Data
+    machineSize: Data
+    electricMotorCapacity: Data
+    grindingCapacity: GrindingCapacityData
+  }
+
+  type Stoneless {
+    models: [String]
+    data: [Stoneless_Data]
+  }
+
+  type Stoneless_Data {
+    id: String!
+    name: Data
+    electricMotorCapacity: Data
+    powerSupply: Data
+    electricConsumption: Data
+    weight: Data
+    machineSize: Data
+    grindingCapacity: GrindingCapacityData
+  }
+
   type Query {
-    launches(
-      """
-      The number of results to show. Must be >= 1. Default = 20
-      """
-      pageSize: Int
-      """
-      If you add a cursor here, it will only return results _after_ this cursor
-      """
-      after: String
-    ): LaunchConnection!
-    launch(id: ID!): Launch
-    me: User
+    allFlourmills: Flourmills
+    commercialFlourmills: Commercial
+    domesticFlourmills: Domestic
+    midRangeStoneFlourmills: Flourmill_With_Mid_Range_Stone
+    largeRangeStoneFlourmills: Flourmill_With_Large_Range_Stone
+    dspDsspFlourmills: Flourmill_DSP_DSSP
+    pulverizerFlourmills: Pulverizer 
+    tableTopFlourmills: Table_Top
+    stonelessFlourmills: Stoneless
+    midRangeStoneFlourmillData(id: String!): Flourmill_With_Mid_Range_Stone_Data
+    largeRangeStoneFlourmillData(id: String!): Flourmill_With_Large_Range_Stone_Data
+    dspDsspFlourmillData(id: String!): Flourmill_DSP_DSSP_Data
+    pulverizerFlourmillData(id: String!): Pulverizer_Data
+    tableTopFlourmillData(id: String!): Table_Top_Data
+    stonelessFlourmillData(id: String!): Stoneless_Data
   }
 
-  type Mutation {
-    # if false, signup failed -- check errors
-    bookTrips(launchIds: [ID]!): TripUpdateResponse!
-
-    # if false, cancellation failed -- check errors
-    cancelTrip(launchId: ID!): TripUpdateResponse!
-
-    login(email: String): String
-
-    # for use with the iOS tutorial
-    uploadProfileImage(file: Upload!): User
-  }
-
-  type TripUpdateResponse {
-    success: Boolean!
-    message: String
-    launches: [Launch]
-  }
-
-  """
-  Simple wrapper around our list of launches that contains a cursor to the
-  last item in the list. Pass this cursor to the launches query to fetch results
-  after these.
-  """
-  type LaunchConnection {
-    cursor: String!
-    hasMore: Boolean!
-    launches: [Launch]!
-  }
-
-  type Launch {
-    id: ID!
-    site: String
-    mission: Mission
-    rocket: Rocket
-    isBooked: Boolean!
-  }
-
-  type Rocket {
-    id: ID!
-    name: String
-    type: String
-  }
-
-  type User {
-    id: ID!
-    email: String!
-    profileImage: String
-    trips: [Launch]!
-    token: String
-  }
-
-  type Mission {
-    name: String
-    missionPatch(size: PatchSize): String
-  }
-
-  enum PatchSize {
-    SMALL
-    LARGE
-  }
 `;
 
 module.exports = typeDefs;
